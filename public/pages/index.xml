@@ -13,7 +13,7 @@
       
       <guid>http://localhost:1313/pages/about/</guid>
       
-      <description>&lt;p&gt;Écrit en Go, Hugo est un générateur de sites statiques open source disponible sous la licence Apache 2.0. Hugo prend en charge les types de fichiers de données TOML, YAML et JSON, les fichiers de contenu Markdown et HTML, et utilise des shortcodes pour ajouter du contenu riche. Parmi les autres fonctionnalités notables, on trouve les taxonomies, le mode multilingue, le traitement des images, les formats de sortie personnalisés, la minification HTML/CSS/JS et le support des workflows Sass SCSS.&lt;/p&gt;</description>
+      <description>&lt;p&gt;LVBCKN est un blog personnel en cours de construction&amp;hellip;&lt;/p&gt;</description>
       
     </item>
     

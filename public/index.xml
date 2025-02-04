@@ -8,14 +8,13 @@
     <language>fr-fr</language>
     <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Premier post</title>
+      <title>L&#39;OFFMAKB : une histoire riche en perte de pertinence depuis 20 ans</title>
       <link>http://localhost:1313/posts/my-fist-post/my-first-post/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/my-fist-post/my-first-post/</guid>
       
-      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
-&lt;p&gt;test&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;suite-à-venir-chaque-chose-en-sont-temps&#34;&gt;Suite à venir, chaque chose en sont temps&amp;hellip;&lt;/h1&gt;</description>
       
     </item>
     
@@ -26,7 +25,7 @@
       
       <guid>http://localhost:1313/pages/about/</guid>
       
-      <description>&lt;p&gt;Écrit en Go, Hugo est un générateur de sites statiques open source disponible sous la licence Apache 2.0. Hugo prend en charge les types de fichiers de données TOML, YAML et JSON, les fichiers de contenu Markdown et HTML, et utilise des shortcodes pour ajouter du contenu riche. Parmi les autres fonctionnalités notables, on trouve les taxonomies, le mode multilingue, le traitement des images, les formats de sortie personnalisés, la minification HTML/CSS/JS et le support des workflows Sass SCSS.&lt;/p&gt;</description>
+      <description>&lt;p&gt;LVBCKN est un blog personnel en cours de construction&amp;hellip;&lt;/p&gt;</description>
       
     </item>
     

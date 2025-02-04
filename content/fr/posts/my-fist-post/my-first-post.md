@@ -1,10 +1,8 @@
 ---
-title: Premier post 
+title: "L'OFFMAKB : une histoire riche en perte de pertinence depuis 20 ans"
 date: 2025-02-04
-author: Hugo Authors
-description: Exemple d'article présentant la syntaxe de base de Markdown et le formatage des éléments HTML.
+author:
+description: 
 ---
 
-# Hello
-
-test
+# Suite à venir, chaque chose en sont temps...
