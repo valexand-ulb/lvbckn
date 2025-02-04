@@ -25,17 +25,6 @@ theme = "hugo-blog-awesome"
     #path = "github.com/hugo-sid/hugo-blog-awesome"
     #disable = false
 
-[services]
-# To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
-# To disable Google Analytics, simply leave the field empty or remove the next two lines
-  [services.googleAnalytics]
-    id = '' # G-MEASUREMENT_ID
-
-# To enable Disqus comments, provide Disqus Shortname below.
-# To disable Disqus comments, simply leave the field empty or remove the next two lines
-  [services.disqus]
-    shortname = ''
-
 # set markup.highlight.noClasses=false to enable code highlight
 [markup]
   [markup.highlight]

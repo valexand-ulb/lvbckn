@@ -14,7 +14,28 @@
       
       <guid>http://localhost:1313/posts/my-fist-post/my-first-post/</guid>
       
-      <description>&lt;h1 id=&#34;suite-à-venir-chaque-chose-en-sont-temps&#34;&gt;Suite à venir, chaque chose en sont temps&amp;hellip;&lt;/h1&gt;</description>
+      <description>&lt;style&gt;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px; /* Ajuste la taille ici */
+    max-width: 100%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
+  }
+&lt;/style&gt;
+&lt;h1 id=&#34;suite-à-venir-chaque-chose-en-sont-temps&#34;&gt;Suite à venir, chaque chose en sont temps&amp;hellip;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;meme.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Guide de la Syntaxe Markdown</title>
+      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      
+      <description>&lt;p&gt;Cet article propose un exemple de syntaxe Markdown de base pouvant être utilisée dans les fichiers de contenu Hugo, et montre également si les éléments HTML de base sont décorés avec du CSS dans un thème Hugo.&lt;/p&gt;</description>
       
     </item>
     
