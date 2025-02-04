@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on lvbckn</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on lvbckn</description>
+    <title>Pages on lvbckn</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on lvbckn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Premier post</title>
-      <link>http://localhost:1313/posts/my-fist-post/my-first-post/</link>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-fist-post/my-first-post/</guid>
-      
-      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
-&lt;p&gt;test&lt;/p&gt;</description>
-      
-    </item>
-    
+    <language>fr-fr</language><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos</title>
       <link>http://localhost:1313/pages/about/</link>
