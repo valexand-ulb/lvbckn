@@ -10,7 +10,7 @@ description:
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 80%; /* Ajuste la taille ici */
+    width: 80%; /* Ajuste la taille ici */
   }
 </style>
 
@@ -114,8 +114,10 @@ Bien que fondée dans un esprit de légèreté et de plaisanterie, cette sociét
 ...
 ## Des Néo agathopédistes ?
 
+Par ailleurs, en 1858, une société de Néo-Agathopèdes fut créée à Ixelles, bien que les informations à son sujet restent très rares.
+
 # Sources : 
 - Gaston de le Court, Les Agathopèdes, Bruxelles 1846 - 1853, dans les Annales de la société royale d'Archéologie de Bruxelles, tome 49
 -  http://www.confreries.be/CNBB/conf/faro/index.htm
+- Histoire de la naissance de notre confrérie d’après Betty de Nil
 -  Sainte-Beuve et la critique littéraire contemporaine, Librairie Droz, 1972
-
