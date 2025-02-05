@@ -1,5 +1,5 @@
 ---
-title: "L'OFFMAKB : une histoire riche en perte de pertinence depuis 20 ans"
+title: "L'OFFMAKB : une histoire riche en perte de pertinence depuis plus de 20 ans..."
 date: 2025-02-04
 author:
 description: 
@@ -16,6 +16,6 @@ description:
   }
 </style>
 
-# Suite à venir, chaque chose en sont temps...
+# Suite à venir, chaque chose en son temps...
 
 ![](/meme.png)
