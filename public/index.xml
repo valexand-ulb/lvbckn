@@ -81,13 +81,13 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%; /* Ajuste la taille ici */
+    max-width: 80%; /* Ajuste la taille ici */
   }
 &lt;/style&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/faro/faro.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;de-lordre-&#34;&gt;De l&amp;rsquo;Ordre :&lt;/h1&gt;
 &lt;p&gt;L&amp;rsquo; &lt;strong&gt;Ordre du Faro&lt;/strong&gt; est une confrérie gastronomique bruxelloise dédiée à la préservation et à la promotion des bières artisanales à fermentation spontanée de la vallée de la Senne. Parmi celles-ci figurent le lambic, la gueuze, la kriek, le faro et bien d&amp;rsquo;autres trésors brassicoles.&lt;/p&gt;
-&lt;p&gt;Fondé le &lt;strong&gt;6 décembre 1980&lt;/strong&gt;, l&amp;rsquo;Ordre du Faro trouve ses origines dans un cercle d’étudiants et d’anciens étudiants qui se réunissaient au Bon Père Faro. Rapidement, la confrérie gagne en notoriété grâce à son association avec la Société des Agathopèdes, qui contribue à sa mise en avant. Cette relation particulière est évoquée dans le texte &amp;ldquo;Histoire de la naissance de notre confrérie d’après Betty de Nil&amp;rdquo;, où l’on peut lire :&lt;/p&gt;</description>
+&lt;p&gt;Fondé le &lt;strong&gt;6 décembre 1980&lt;/strong&gt;, l&amp;rsquo;Ordre du Faro trouve ses origines dans un cercle d’étudiants et d’anciens étudiants qui se réunissaient au Bon Père Faro. Rapidement, la confrérie gagne en notoriété grâce à son association avec la Société des Agathopèdes (nous en parlerons plus bas), qui contribue à sa mise en avant. Cette relation particulière est évoquée dans le texte &amp;ldquo;Histoire de la naissance de notre confrérie d’après Betty de Nil&amp;rdquo;, où l’on peut lire :&lt;/p&gt;</description>
       
     </item>
     

@@ -10,7 +10,7 @@ description:
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%; /* Ajuste la taille ici */
+    max-width: 80%; /* Ajuste la taille ici */
   }
 </style>
 
@@ -20,13 +20,13 @@ description:
 
 L' **Ordre du Faro** est une confrérie gastronomique bruxelloise dédiée à la préservation et à la promotion des bières artisanales à fermentation spontanée de la vallée de la Senne. Parmi celles-ci figurent le lambic, la gueuze, la kriek, le faro et bien d'autres trésors brassicoles.
 
-Fondé le **6 décembre 1980**, l'Ordre du Faro trouve ses origines dans un cercle d’étudiants et d’anciens étudiants qui se réunissaient au Bon Père Faro. Rapidement, la confrérie gagne en notoriété grâce à son association avec la Société des Agathopèdes, qui contribue à sa mise en avant. Cette relation particulière est évoquée dans le texte "Histoire de la naissance de notre confrérie d’après Betty de Nil", où l’on peut lire :
+Fondé le **6 décembre 1980**, l'Ordre du Faro trouve ses origines dans un cercle d’étudiants et d’anciens étudiants qui se réunissaient au Bon Père Faro. Rapidement, la confrérie gagne en notoriété grâce à son association avec la Société des Agathopèdes (nous en parlerons plus bas), qui contribue à sa mise en avant. Cette relation particulière est évoquée dans le texte "Histoire de la naissance de notre confrérie d’après Betty de Nil", où l’on peut lire :
 
 > Il était une fois deux copains, Michel DAVID et Charles FONTAINE de GHELIN, l’un cuisinier de son état et membre de l’ association des « Agathopèdes », l’autre patron du bistrot « Père Faro » chaussée d’Alsemberg à Uccle et grand collectionneur d’articles de bières. Michel DAVID nous contacta, Marcel DEDOBBELEER et moi-même dans le courant de l’année 1980 pour nous informer de leur souhait de créer une confrérie défendant la bière bruxelloise [...]
 
 Aujourd’hui, l’Ordre du Faro est devenu une ASBL reconnue par le Conseil Noble Bruxelles Brabant (CNBB) et rassemble une vingtaine de membres actifs. Bien que son existence ait pu sembler marquée par le temps, l’Ordre a récemment suscité l’intérêt des étudiants à tendence ordinesque, entraînant un rajeunissement notable de ses membres.
 
-# Du Lambic et de ses variations :
+# Du Lambic et ses variations :
 
 ## Le Lambic : Une Bière à Fermentation Spontanée
 Le lambic est une bière à **fermentation spontanée,** exclusivement produite dans la vallée de la Senne (au sud de Bruxelles) et dans le Pajottenland (à l’ouest de Bruxelles). Brassé en hiver, il est exposé à l’air libre durant une nuit afin d’être ensemencé par des bactéries et des levures sauvages, notamment Brettanomyces bruxellensis et Brettanomyces lambicus.
@@ -45,11 +45,11 @@ Souvent surnommée le « champagne de la bière », la gueuze doit cette compara
 
 ## Le Faro : de bière d'étudiants à bière oubliée
 
-Le faro est un lambic adouci par l’ajout de sucre candi brun, qui lui confère une saveur légèrement caramélisée. Autrefois, il s’agissait de la manière la plus courante de consommer le lambic.
+Le faro est un lambic adouci par l’ajout de sucre candi brun, qui lui confère une saveur légèrement caramélisée. Autrefois, il s’agissait de la manière la plus courante de consommer le lambic et était très prisé dans les millieux estudiantins.
 
 Cependant, avec le succès croissant de la pils, ainsi que le développement de la gueuze et de la kriek – facilité par l’amélioration de la solidité des bouteilles et l’adoption des bouteilles de champagne – le faro a progressivement décliné, au point de presque disparaître.
 
-Cette bière doit être consommée rapidement, car le sucre candi relance la fermentation, limitant ainsi sa durée de conservation. Malgré cette contrainte, quelques brasseurs proposent encore aujourd’hui du faro en bouteille tel que Lindemans ou encore Boon.
+Cette bière doit être consommée rapidement, car le sucre candi relance la fermentation, limitant ainsi sa durée de conservation. Malgré cette contrainte, quelques brasseurs proposent encore aujourd’hui du faro en bouteille tel que Lindemans, Timmermans ou encore Boon.
 
 ![Blason des Crocodiles](croco.jpg)
 
@@ -110,14 +110,15 @@ Le 29 septembre 1846, Antoine Schayes restaure l’Ordre des Agathopèdes. Le pr
 
 Bien que fondée dans un esprit de légèreté et de plaisanterie, cette société de joyeux esprits acquiert rapidement une réputation prestigieuse dans le domaine culturel, notamment grâce aux ouvrages de grande qualité publiés sous son nom, encore très prisés des bibliophiles aujourd’hui.
 
-## Une fin tragique 
-...
 ## Des Néo agathopédistes ?
 
-Par ailleurs, en 1858, une société de Néo-Agathopèdes fut créée à Ixelles, bien que les informations à son sujet restent très rares.
+Après sa disparition, une société de Néo-Agathopèdes fut fondée en 1858 à Ixelles, bien que les informations à son sujet demeurent très rares. Il semblerait qu'ils aient effectivement établi un contact avec l'Ordre du Faro.
+
+![](cochon.jpg)
+
 
 # Sources : 
 - Gaston de le Court, Les Agathopèdes, Bruxelles 1846 - 1853, dans les Annales de la société royale d'Archéologie de Bruxelles, tome 49
--  http://www.confreries.be/CNBB/conf/faro/index.htm
+- http://www.confreries.be/CNBB/conf/faro/index.htm
 - Histoire de la naissance de notre confrérie d’après Betty de Nil
--  Sainte-Beuve et la critique littéraire contemporaine, Librairie Droz, 1972
+- Sainte-Beuve et la critique littéraire contemporaine, Librairie Droz, 1972
