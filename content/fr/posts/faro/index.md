@@ -10,7 +10,7 @@ description:
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%; /* Ajuste la taille ici */
+    max-width: 80%; /* Ajuste la taille ici */
   }
 </style>
 
@@ -92,11 +92,30 @@ Tandis que parmi les gueuzeries, on retrouve :
 - ...
 
 # Des Agathopèdes :
-...
+
+![](agatho.jpg)
+
 ## Une société curieuse 
-...
+La **Société Pantechnique et Palingénésique des Agathopèdes**, plus communément appelée **Société des Agathopèdes**, est une société discrète fondée à Bruxelles le 24 septembre 1846 par Antoine Schayes. Elle se présente comme le prolongement de l' **Ordre des Agathopèdes**, supposément établi au XVe siècle et disparu vers la fin du XXe siècle.
+
+Le premier Ordre des Agathopèdes était  vraisemblablement une **pure mystification**. Selon cette légende, cette société secrète aurait été fondée à Bruxelles au milieu du XVe siècle dans le but de lutter contre le fanatisme religieux, d'abord celui de l'Église catholique romaine, puis celui des Églises protestantes. Cette mystification fut peut-être élaborée pour donner un vernis d'authenticité et d'ancienneté à la plus moderne Société des Agathopèdes.
+
+Depuis sa création, la Société des Agathopèdes entretient des liens étroits avec la **Société des Douze**, une confrérie alliant gastronomie et érudition, qui a compté parmi ses membres plusieurs fondateurs de l'Université libre de Bruxelles (ULB).
+
+
 ## Une reprise étrange
-...
+Le 29 septembre 1846, Antoine Schayes restaure l’Ordre des Agathopèdes. Le premier chapitre de cette nouvelle société se tient le 4 novembre de la même année.
+
+À l’origine, la Société des Agathopèdes est composée de sept membres, tous érudits brillants, désireux de se divertir de manière honorable en associant gastronomie et création de canulars. Ses membres s’engagent à être de fidèles compagnons, et ses statuts précisent que l’objectif de l’association est de « passer les soirées à l’abri des mouchards, du bruit, de la musique et autres incommodités ».
+
+Bien que fondée dans un esprit de légèreté et de plaisanterie, cette société de joyeux esprits acquiert rapidement une réputation prestigieuse dans le domaine culturel, notamment grâce aux ouvrages de grande qualité publiés sous son nom, encore très prisés des bibliophiles aujourd’hui.
+
 ## Une fin tragique 
 ...
-## Des Néos ? 
+## Des Néo agathopédistes ?
+
+# Sources : 
+- Gaston de le Court, Les Agathopèdes, Bruxelles 1846 - 1853, dans les Annales de la société royale d'Archéologie de Bruxelles, tome 49
+-  http://www.confreries.be/CNBB/conf/faro/index.htm
+-  Sainte-Beuve et la critique littéraire contemporaine, Librairie Droz, 1972
+
