@@ -20,10 +20,23 @@
     margin-left: auto;
     margin-right: auto;
     width: 100%; /* Ajuste la taille ici */
-    max-width: 500%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
+    max-width: 80%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
   }
 &lt;/style&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/frise/frise.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/frise/frise.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://valexand-ulb.github.io/lvbckn/posts/frise/frise.png&#34;&gt;Meilleur vue&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ Cet article fait office de table des matière pour les articles existant ou à venir sur le site.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id=&#34;cercle-des-adelphes&#34;&gt;Cercle des Adelphes&lt;/h1&gt;
+&lt;h1 id=&#34;cercle-de-bohème---cercle-des-nébuleux&#34;&gt;Cercle de Bohème - Cercle des Nébuleux&lt;/h1&gt;
+&lt;h1 id=&#34;sauriens&#34;&gt;Sauriens&lt;/h1&gt;
+&lt;h1 id=&#34;ordre-des-frères-macchabées&#34;&gt;Ordre des Frères Macchabées&lt;/h1&gt;
+&lt;h1 id=&#34;cercle-des-népelés&#34;&gt;Cercle des Népelés&lt;/h1&gt;
+&lt;h1 id=&#34;des-truans-au-coquillard--une-grande-famille&#34;&gt;Des Truans au Coquillard : une grande famille&lt;/h1&gt;
+&lt;h1 id=&#34;thélémites&#34;&gt;Thélémites&lt;/h1&gt;
+&lt;h1 id=&#34;phallus-et-thanéas&#34;&gt;Phallus et Thanéas&lt;/h1&gt;
+&lt;h1 id=&#34;les-dindons-et-leurs-déscendances&#34;&gt;Les Dindons et leurs déscendances&lt;/h1&gt;
+&lt;h1 id=&#34;ordre-des-chauves-souris&#34;&gt;Ordre des Chauves-Souris&lt;/h1&gt;</description>
       
     </item>
     
