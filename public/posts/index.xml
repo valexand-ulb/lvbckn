@@ -28,7 +28,7 @@
     </item>
     
     <item>
-      <title>L&#39;OFFMAKB : une histoire riche en perte de pertinence depuis 20 ans</title>
+      <title>L&#39;OFFMAKB : une histoire riche en perte de pertinence depuis plus de 20 ans...</title>
       <link>http://localhost:1313/posts/offmakb/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
       
@@ -43,8 +43,29 @@
     max-width: 500%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
   }
 &lt;/style&gt;
-&lt;h1 id=&#34;suite-à-venir-chaque-chose-en-sont-temps&#34;&gt;Suite à venir, chaque chose en sont temps&amp;hellip;&lt;/h1&gt;
+&lt;h1 id=&#34;suite-à-venir-chaque-chose-en-son-temps&#34;&gt;Suite à venir, chaque chose en son temps&amp;hellip;&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/offmakb/meme.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>L&#39;Ordre du Faro : une motivation agathopède ?</title>
+      <link>http://localhost:1313/posts/faro/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/faro/</guid>
+      
+      <description>&lt;style&gt;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; /* Ajuste la taille ici */
+    max-width: 500%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
+  }
+&lt;/style&gt;
+&lt;h1 id=&#34;histoire&#34;&gt;Histoire&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/faro/faro.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
