@@ -19,7 +19,6 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%; /* Ajuste la taille ici */
     max-width: 80%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
   }
 &lt;/style&gt;
@@ -44,7 +43,43 @@
 &lt;h2 id=&#34;dindons&#34;&gt;Dindons&lt;/h2&gt;
 &lt;h2 id=&#34;enculeurs-de-dindons&#34;&gt;Enculeurs de Dindons&lt;/h2&gt;
 &lt;h2 id=&#34;hématophages&#34;&gt;Hématophages&lt;/h2&gt;
-&lt;h1 id=&#34;ordre-des-chauves-souris&#34;&gt;Ordre des Chauves-Souris&lt;/h1&gt;</description>
+&lt;h1 id=&#34;ordre-des-chauves-souris&#34;&gt;Ordre des Chauves-Souris&lt;/h1&gt;
+&lt;h1 id=&#34;a-classer-et--ou-documenter-&#34;&gt;A classer et / ou documenter :&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Compagnons de Thomas Moore&lt;/li&gt;
+&lt;li&gt;Rapporteur du grand conseil d&amp;rsquo;en haut&lt;/li&gt;
+&lt;li&gt;Schtroumpf à lunette&lt;/li&gt;
+&lt;li&gt;schtroumpf noir&lt;/li&gt;
+&lt;li&gt;Amis de la très grande loge Fenris&lt;/li&gt;
+&lt;li&gt;Spectateurs Enragés (???)&lt;/li&gt;
+&lt;li&gt;Frères Krostons&lt;/li&gt;
+&lt;li&gt;Ordre studentyssime vesnerable et trez magnyfyque de François Villon de Montcorbier&lt;/li&gt;
+&lt;li&gt;Bertiens&lt;/li&gt;
+&lt;li&gt;Chouans&lt;/li&gt;
+&lt;li&gt;Ciceros&lt;/li&gt;
+&lt;li&gt;Cinq Glands&lt;/li&gt;
+&lt;li&gt;Cocotiers&lt;/li&gt;
+&lt;li&gt;Croque-morts&lt;/li&gt;
+&lt;li&gt;Dada&lt;/li&gt;
+&lt;li&gt;Dalle en pente&lt;/li&gt;
+&lt;li&gt;Déménageurs&lt;/li&gt;
+&lt;li&gt;Force Cinq&lt;/li&gt;
+&lt;li&gt;Fox&lt;/li&gt;
+&lt;li&gt;Frères Scarabées&lt;/li&gt;
+&lt;li&gt;Fugitifs&lt;/li&gt;
+&lt;li&gt;Grand Veres&lt;/li&gt;
+&lt;li&gt;Infecte Insecte&lt;/li&gt;
+&lt;li&gt;Lotus&lt;/li&gt;
+&lt;li&gt;Mécréants&lt;/li&gt;
+&lt;li&gt;Menuisier&lt;/li&gt;
+&lt;li&gt;Montagnards&lt;/li&gt;
+&lt;li&gt;Quatre Points&lt;/li&gt;
+&lt;li&gt;Presses&lt;/li&gt;
+&lt;li&gt;Sauret masqué&lt;/li&gt;
+&lt;li&gt;Scalptores Anis&lt;/li&gt;
+&lt;li&gt;Valencia&lt;/li&gt;
+&lt;li&gt;Quatre Vins&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
@@ -98,7 +133,16 @@
       
       <guid>http://localhost:1313/pages/about/</guid>
       
-      <description>&lt;p&gt;LVBCKN est un blog personnel en cours de construction&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;style&gt;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
+  }
+&lt;/style&gt;
+&lt;p&gt;LVBCKN est un blog personnel où un étudiant partage ses travaux de recherche, entretiens et réflexions sur les traditions folkloriques, principalement liées à l&amp;rsquo;ULB.&lt;/p&gt;
+&lt;p&gt;Il n’est pas pertinent de dévoiler en détail les rites d’un ordre souhaitant rester secret ou discret. Toutefois, il est essentiel de préserver la mémoire des idées et des pensées qui ont façonné le folklore. En ce sens, LVBCKN se veut musée et non vengeance de profane.&lt;/p&gt;</description>
       
     </item>
     

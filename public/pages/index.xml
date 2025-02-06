@@ -13,7 +13,16 @@
       
       <guid>http://localhost:1313/pages/about/</guid>
       
-      <description>&lt;p&gt;LVBCKN est un blog personnel en cours de construction&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;style&gt;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
+  }
+&lt;/style&gt;
+&lt;p&gt;LVBCKN est un blog personnel où un étudiant partage ses travaux de recherche, entretiens et réflexions sur les traditions folkloriques, principalement liées à l&amp;rsquo;ULB.&lt;/p&gt;
+&lt;p&gt;Il n’est pas pertinent de dévoiler en détail les rites d’un ordre souhaitant rester secret ou discret. Toutefois, il est essentiel de préserver la mémoire des idées et des pensées qui ont façonné le folklore. En ce sens, LVBCKN se veut musée et non vengeance de profane.&lt;/p&gt;</description>
       
     </item>
     

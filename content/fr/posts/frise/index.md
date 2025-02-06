@@ -10,7 +10,6 @@ description: "Frise chronologique"
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%; /* Ajuste la taille ici */
     max-width: 80%; /* Pour garantir que l'image ne dépasse pas la largeur de l'écran */
   }
 </style>
@@ -57,3 +56,40 @@ description: "Frise chronologique"
 ## Hématophages
 
 # Ordre des Chauves-Souris
+
+
+# A classer et / ou documenter : 
+
+- Compagnons de Thomas Moore
+- Rapporteur du grand conseil d'en haut
+- Schtroumpf à lunette
+- schtroumpf noir
+- Amis de la très grande loge Fenris
+- Spectateurs Enragés (???)
+- Frères Krostons
+- Ordre studentyssime vesnerable et trez magnyfyque de François Villon de Montcorbier
+- Bertiens
+- Chouans
+- Ciceros
+- Cinq Glands
+- Cocotiers
+- Croque-morts
+- Dada
+- Dalle en pente
+- Déménageurs
+- Force Cinq
+- Fox
+- Frères Scarabées
+- Fugitifs
+- Grand Veres
+- Infecte Insecte
+- Lotus
+- Mécréants
+- Menuisier
+- Montagnards
+- Quatre Points
+- Presses
+- Sauret masqué
+- Scalptores Anis
+- Valencia
+- Quatre Vins
