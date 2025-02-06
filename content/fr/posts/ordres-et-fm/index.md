@@ -30,6 +30,8 @@ Cette conception du libre examen, dépassant le cadre traditionnel de la recherc
 Dans ses premières années et jusque dans les années 1880, l'Université libre de Bruxelles, tout comme beaucoup d'université du XIXe siècle, était une institution exclusivement masculine et uniquement accessible à une population bourgeoise. En effet, les frais de scolarité élevés, le manque de soutient financier et la préparation scolaire secondaire limitée ne permettait pas au jeunes issus de milieux  plus modeste d'accéder à l'enseignement supérieur.
 
 ![](fils.jpg)
+> Notons le port d'une faluche par un étudiant du fonds. Le couvre chef était probablement porté et présent avant la penne à l'ULB comme nous le montre certaines archives des Nébuleux.
+
 # Les premiers Ordres 
 Les premiers cercles et ordres à apparaitre à l'ULB sont à l'image de la population estudiantine de l'époque. Nous retrouvons ainsi des cercle permettant le réseautage facile entre les différents fils à papa et une vie à l'université plus tranquille organisée autours de banquets et de bals. Nous parlerons dans un prochain articles de ces premiers cercles tels que les Nébuleux (autrefois Bohèmes), les Adelphes etc.
 
