@@ -110,9 +110,12 @@ Le 29 septembre 1846, Antoine Schayes restaure l’Ordre des Agathopèdes. Le pr
 
 Bien que fondée dans un esprit de légèreté et de plaisanterie, cette société de joyeux esprits acquiert rapidement une réputation prestigieuse dans le domaine culturel, notamment grâce aux ouvrages de grande qualité publiés sous son nom, encore très prisés des bibliophiles aujourd’hui.
 
-## Des Néo agathopédistes ?
+## Une fin tragique 
+D'après le témoignage de Betty de Nil, la société des Agathopèdes semble s'éteindre dans les années 1980. Voici ce qu'elle déclare : 
 
-Après sa disparition, une société de Néo-Agathopèdes fut fondée en 1858 à Ixelles, bien que les informations à son sujet demeurent très rares. Il semblerait qu'ils aient effectivement établi un contact avec l'Ordre du Faro.
+> Nous formions une équipe dynamique et soudée et tout commençait à aller pour le mieux lorsque nous apprîmes que l’association des « Agathopèdes » n’était qu’une vaste escroquerie aux restaurateurs. Notre réaction fut de nous dissocier de nos parrains peu scrupuleux. Notre Grand Maître Michel DAVID, à notre grande surprise et à notre plus grand regret, opta pour les « Agathopèdes » (sous leur pression, je pense) et démissionna de sa fonction au sein de notre confrérie. Nous avons néanmoins gardé les meilleurs contacts avec Michel que nous avons toujours regretté car c’était un homme chaleureux, sincère et intègre. Quant aux « Agathopèdes » ils disparurent définitivement peu de temps après.
+
+Ainsi les Agathopèdes, ayant eu des contacts avec l'Ordre du Faro, auraient soit constitué l'une des dernières interactions des Agathopèdes réformés de 1858 (parfois appelés Néo-Agathopèdes), soit fait partie d'un groupe usurpateur se basant sur la renommée de cette société.
 
 ![](cochon.jpg)
 
