@@ -45,7 +45,12 @@ Souvent surnommée le « champagne de la bière », la gueuze doit cette compara
 
 ## Le Faro : de bière d'étudiants à bière oubliée
 
-Le faro est un lambic adouci par l’ajout de sucre candi brun, qui lui confère une saveur légèrement caramélisée. Autrefois, il s’agissait de la manière la plus courante de consommer le lambic et était très prisé dans les millieux estudiantins.
+Le faro est un lambic adouci par l’ajout de sucre candi brun, qui lui confère une saveur légèrement caramélisée. Autrefois, il s’agissait de la manière la plus courante de consommer le lambic et était très prisé dans les millieux estudiantins. En effet  les références dans les chants et blasons ne sont pas rares : 
+
+> Elle a vraiment d’une bière flamande <br>
+L’air avenant, l’éclat et la douceur <br>
+Joyeux Wallons, elle nous affriande <br>
+Et le **Faro** trouve en elle une sœur <br>
 
 Cependant, avec le succès croissant de la pils, ainsi que le développement de la gueuze et de la kriek – facilité par l’amélioration de la solidité des bouteilles et l’adoption des bouteilles de champagne – le faro a progressivement décliné, au point de presque disparaître.
 

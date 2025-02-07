@@ -37,7 +37,9 @@ Les premiers cercles et ordres à apparaitre à l'ULB sont à l'image de la popu
 
 ## La franc-maçonnerie dans les ordres
 Depuis le moment de sa création et de part les idéaux promu au sein de son enseignement, l'ULB  à vu défiler bon nombre d'enseignant notoires qui, même en conflit d'opinion politique, étaient intimement liés à la franc-maçonnerie. De cet enseignement apparut des générations d'étudiants, parfois eux-mêmes fils de maçons, empreints aux même idéaux de liberté qui, en toute logique, terminèrent leurs carrière le plus souvent au sein d'une loge Belge. 
-Dans ce climat favorable, de nombreux ordres ont émergé, cherchant à reproduire le cadre discret et structuré des francs-maçons. Parmi les plus connus aujourd’hui figurent l’Ordre des Frères Macchabées et les Chevaliers du Temple, dont nous traiterons dans de prochains articles.
+Dans ce climat favorable, de nombreux ordres ont émergé, cherchant à reproduire le cadre discret et structuré des francs-maçons. Parmi les plus connus aujourd’hui figure par exemple les Chevaliers du Temple, dont nous traiterons dans de prochains articles. Un Macchabées nous révèle ainsi dans "La pensée des hommes" : 
+
+> En tant que Frère Macchabée, je n'ai jamais appris ni eu la curiosité de savoir si les parents des autres membres du groupe entretenaient des liens avec la franc-maçonnerie, mais j'ai ressenti une profonde joie à retrouver en loge un grand nombre de mes anciens compagnons de la vie universitaire.
 
 # Les points communs : 
 Le 13e ouvrage de la série : "La pensée des Hommes - Sous le masque de la franc-maçonnerie" (source sublime ayant su susciter l'intérêt de plus d'une personne aux ordres ulbistes) relève 5 points communs entre les ordres et les rites maçonniques  : 
