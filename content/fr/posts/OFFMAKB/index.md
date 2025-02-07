@@ -69,8 +69,6 @@ Il est néanmoins possible de candidater en remplissant un formulaire disponible
 > - L'arbre en face du CM
 > - L'arbre en face de la Jefke <br>
 
-## Les Postes
-
 ## Le Rôle de l'Ordre dans le Folklore
 
 # Sources : 
