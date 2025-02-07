@@ -37,7 +37,7 @@ Ensuite, les postulants sont soumis à une enquête approfondie ainsi qu’à un
 
 > **Image à paraître**
 
-Il est néanmoins possible de candidater en remplissant un formulaire disponible derrière chaque Bruxelles Universitaire. Cette méthode est probablement un canular, mais elle fait également écho aux origines de l’ordre, qui était autrefois plus ouvert et autorisait ce type de candidature jusqu’aux années [X].
+Il est néanmoins possible de candidater en remplissant un formulaire disponible derrière chaque "Bruxelles Universitaire". Cette méthode est probablement un canular, mais elle fait également écho aux origines de l’ordre, qui était autrefois plus ouvert et autorisait ce type de candidature jusqu’aux années [X].
 
 ![](candidature.jpg)
 

@@ -29,6 +29,8 @@ description: "Frise chronologique"
 
 # Ordre des Frères Macchabées
 
+["L'OFFMAKB : une histoire riche en perte de pertinence depuis plus de 20 ans..."](/posts/OFFMAKB/)
+
 # Cercle des Népelés 
 
 # Des Truands aux Coquillards : une grande famille
