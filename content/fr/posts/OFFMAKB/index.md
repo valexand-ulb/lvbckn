@@ -71,7 +71,7 @@ Il est néanmoins possible de candidater en remplissant un formulaire disponible
 
 ## Le Rôle de l'Ordre dans le Folklore
 
-[](fanfare.jpg)
+![](fanfare.jpg)
 
 > Ici une image de la fanfare du cercle de Médecine. Cependant, nous pouvons apercevoir Jefke pointer gaiement sa tête parmis les membres. 
 
