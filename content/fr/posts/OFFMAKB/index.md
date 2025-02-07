@@ -71,6 +71,10 @@ Il est néanmoins possible de candidater en remplissant un formulaire disponible
 
 ## Le Rôle de l'Ordre dans le Folklore
 
+[](fanfare.jpg)
+
+> Ici une image de la fanfare du cercle de Médecine. Cependant, nous pouvons apercevoir Jefke pointer gaiement sa tête parmis les membres. 
+
 # Sources : 
 - Article du journal le Soir de 1999 : "A LA UNE LES CERCLES DU VOIR, DU SAVOIR ET DU POUVOIR..."
 -  "La pensée des Hommes - Sous le masque de la franc-maçonnerie", 13e ouvrage.
