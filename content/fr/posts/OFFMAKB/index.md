@@ -84,7 +84,7 @@ Dans cette optique, nous retrouvons souvent lors d'évènement marquant des trac
 
 mais aussi  la parution de journaux tel que la "Bulle" ou encore le "Bruxelles Universitaire" repris dans les années 1930.
 
-![](bulle.png)
+![](bulle.jpg)
 
 Tout ce rituel ne prétend ni imiter ni tourner en dérision la franc-maçonnerie. Cependant, l’idée d’antichambre est souvent évoquée à propos de l’ordre. En effet, il n’est pas rare qu’un frère, après avoir quitté la vie universitaire, finisse par rejoindre une loge, comme l’explique Chassepot :
  
