@@ -28,14 +28,28 @@ Autrefois connus sous le nom de Funèbre Macchabées, ils adoptèrent cette appe
 Cet esprit fut par la suite intégré à l’ULB, donnant naissance à ce qui est probablement – bien que les sources divergent – l’un des ordres ayant perduré le plus longtemps, en dehors des cercles facultaires.
 
 # De l'Ordre
-
+## Le Symbolisme
 
 ## Le Recrutement 
+L'intégration au sein de l’ordre se fait par cooptation, impliquant que chaque nouveau membre doit satisfaire à des critères stricts établis par les anciens afin de garantir la cohésion du groupe.
+Le premier contact s’établit généralement par une lettre ou un appel téléphonique anonyme. À cette occasion, il est fréquent que le candidat reçoive pour consigne de se bander les yeux et d’attendre sur un banc de l’abbaye de la Cambre.
+Ensuite, les postulants, souvent parrainés, sont soumis à une enquête approfondie ainsi qu’à un interrogatoire portant sur leur parcours dans le milieu étudiant. Avant l’intronisation, un vote des membres de l’ordre détermine leur admission à l'intronisation.
 
-**Image à parraître**
+> **Image à paraître**
+
+Il est néanmoins possible de candidater en remplissant un formulaire disponible derrière chaque Bruxelles Universitaire. Cette méthode est probablement un canular, mais elle fait également écho aux origines de l’ordre, qui était autrefois plus ouvert et autorisait ce type de candidature jusqu’aux années [X].
+
+![](candidature.jpg)
+
+> Candidature issu du BU Saint-V 2024 / Saint-V CVII. <br>
+> Réponse sous les 13 jours (naturellement) <br>
+> À soumettre en 3 exemplaires de façon discrète mais pas secrète sur :
+> - L'arbre en face du Pint House
+> - L'arbre en face du CM
+> - L'arbre en face de la Jefke <br>
 
 ## Les Postes
 
-## Le Symbolisme
 
-## Le Role dans le folklore
+
+## Le Rôle dans le folklore
