@@ -1,6 +1,6 @@
 ---
 title: "Relation entre ordres : de 1830 à nos jours"
-date: 2025-02-07
+date: 2025-02-08
 author:
 description: "Frise chronologique"
 ---
@@ -24,6 +24,8 @@ description: "Frise chronologique"
 # Cercle des Adelphes
 
 # Cercle de Bohème - Cercle des Nébuleux
+
+["Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes"](/posts/nébuleux/)
 
 # Sauriens
 
