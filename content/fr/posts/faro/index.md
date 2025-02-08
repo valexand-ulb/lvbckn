@@ -24,9 +24,10 @@ Fondé le **6 décembre 1980**, l'Ordre du Faro trouve ses origines dans un cerc
 
 > Il était une fois deux copains, Michel DAVID et Charles FONTAINE de GHELIN, l’un cuisinier de son état et membre de l’ association des « Agathopèdes », l’autre patron du bistrot « Père Faro » chaussée d’Alsemberg à Uccle et grand collectionneur d’articles de bières. Michel DAVID nous contacta, Marcel DEDOBBELEER et moi-même dans le courant de l’année 1980 pour nous informer de leur souhait de créer une confrérie défendant la bière bruxelloise [...]
 
-Aujourd’hui, l’Ordre du Faro est devenu une ASBL reconnue par le Conseil Noble Bruxelles Brabant (CNBB) et rassemble une vingtaine de membres actifs. Bien que son existence ait pu sembler marquée par le temps, l’Ordre a récemment suscité l’intérêt des étudiants à tendence ordinesque, entraînant un rajeunissement notable de ses membres.
+Aujourd’hui, l’Ordre du Faro est devenu une ASBL reconnue par le Conseil Noble Bruxelles Brabant (CNBB) et rassemble une vingtaine de membres actifs. Bien que son existence ait pu sembler marquée par le temps, l’Ordre a récemment suscité l’intérêt des étudiants à tendance ordinesque, entraînant un rajeunissement notable de ses membres.
 
-# Du Lambic et ses variations :
+# Du Lambic et de ses variations :
+Cette section, bien que légèrement en marge du sujet principal de l'article, vise à apporter un éclairage sur les valeurs défendues par l'Ordre du Faro. Elle s'inscrit donc davantage comme un complément d'information que comme un élément directement essentiel au propos initial.
 
 ## Le Lambic : Une Bière à Fermentation Spontanée
 Le lambic est une bière à **fermentation spontanée,** exclusivement produite dans la vallée de la Senne (au sud de Bruxelles) et dans le Pajottenland (à l’ouest de Bruxelles). Brassé en hiver, il est exposé à l’air libre durant une nuit afin d’être ensemencé par des bactéries et des levures sauvages, notamment Brettanomyces bruxellensis et Brettanomyces lambicus.
