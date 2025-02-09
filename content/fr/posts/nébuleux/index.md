@@ -86,7 +86,7 @@ Charles Sillevaerts précise que, lorsqu’ils évoquaient les fonctions des mem
 Lors des séances secrètes, le Gardien de la Règle réprimandait les délinquants en leur touchant l’épaule avec une grande canne à pêche. Toutefois, lorsqu’il prenait place à la tribune, il déléguait ses pouvoirs ainsi que sa canne au Frère Taillable et Corvéable presque à merci. Ce dernier se voyait alors confier, à titre exceptionnel, la responsabilité de tenir le registre des dons involontaires.
 Bien que ces amendes étaient minimes, leur fréquence et leur accumulation finissaient par représenter une somme conséquente. Celle-ci était intégralement versée au **"Fonds des victimes de la sécheresse"**, destiné à assurer le remplissage de la coupe. 
 
-> 	💡 Notons que les Nébuleux furent parmi les premiers à adopter un modèle de séances en deux parties : la première, secrète, était strictement réservée aux membres, tandis que la seconde, à vocation récréative, était ouverte au public.
+> 💡 Notons que les Nébuleux furent parmi les premiers à adopter un modèle de séances en deux parties : la première, secrète, était strictement réservée aux membres, tandis que la seconde, à vocation récréative, était ouverte au public.
 
 ### L'examen
 En fin de cours, les candidats étaient soumis à un examen composé de trois épreuves écrites. La première portait sur les matières enseignées et devait être repassée par le candidat jusqu’à l’obtention d’une note minimale de 10 sur 20.
