@@ -122,9 +122,9 @@ La Première Guerre mondiale a profondément bouleversé la composition sociale 
 
 Si ce changement en soi n’explique pas directement la disparition des Nébuleux, l’évolution des mentalités joue un rôle déterminant. L’esprit festif et les bals, jadis omniprésents, trouvent de moins en moins leur place dans une société marquée par la rigueur et la reconstruction. Dans ce contexte, prolonger ses études sur une dizaine d’années, une pratique courante parmi les membres du cercle, devient socialement mal perçu.
 
-Une lettre datant de 1927, conservée dans les archives de l'Université, témoigne à la fois de la perte des archives du cercle et de l'organisation d'un banquet pour ses membres au seins du **"Diable au corp"**. Il s'agit de l'une des dernières traces laissées par les Nébuleux.
+Une lettre datant de 1927, conservée dans les archives de l'Université, témoigne à la fois du déclin progressif du cercle et de l'organisation d'un banquet pour ses membres au sein du "Diable au corps". Il s'agit de l'une des dernières traces laissées par les Nébuleux.
 
->  Cher Camarade, Le cercle des Nébuleux, dont vous fûtes, nos archives en font foi, un des membres les plus dévoués, n’a pas survécu à la guerre
+>  Cher Camarade, Le cercle des Nébuleux, dont vous fûtes, nos archives en font foi, un des membres les plus dévoués, n’a pas survécu à la guerre.
 
 > Image à venir
 
