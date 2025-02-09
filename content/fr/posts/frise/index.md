@@ -16,9 +16,6 @@ description: "Frise chronologique"
 
 ![](frise.png)
 
-[Meilleur vue](https://valexand-ulb.github.io/lvbckn/posts/frise/frise.png)
-
-
 > ⚠️ Cet article fait office de table des matière pour les articles existant ou à venir sur le site.
 
 # Cercle des Adelphes
