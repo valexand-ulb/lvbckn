@@ -8,15 +8,23 @@
     <language>fr-fr</language>
     <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes</title>
+      <title>Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes</title>
       <link>http://localhost:1313/posts/n%C3%A9buleux/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/n%C3%A9buleux/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/n%C3%A9buleux/n%C3%A9buleux.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;style&gt;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
+  }
+&lt;/style&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/n%C3%A9buleux/n%C3%A9buleux.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;du-cercle&#34;&gt;Du Cercle&lt;/h1&gt;
-&lt;p&gt;Aux origines, le Cercle de Bohèmes voit le jour en 1886. Ce n&amp;rsquo;est qu&amp;rsquo;un an plus tard, en 1887, qu&amp;rsquo;il adopte le nom de Cercle des Nébuleux, probablement sous l&amp;rsquo;influence de confrères établis à Liège. Comme c&amp;rsquo;était souvent le cas à l&amp;rsquo;époque, il s&amp;rsquo;agit d&amp;rsquo;un cercle réunissant de jeunes bourgeois privilégiés, où la vie mondaine se mêle au réseautage. Son principal objectif est d&amp;rsquo;organiser bals, fêtes, banquets et autres divertissements. Pourtant, au-delà de son apparente légèreté, le cercle s&amp;rsquo;impose comme une institution influente, accueillant des figures marquantes telles que George Garnir, auteur du Semeur. Par ses rites et son décorum, il laisse une empreinte durable sur les ordres qui émergeront à l&amp;rsquo;ULB au cours du siècle suivant.&lt;/p&gt;</description>
+&lt;p&gt;Aux origines, le &lt;strong&gt;Cercle de Bohèmes&lt;/strong&gt; voit le jour en 1886. Ce n&amp;rsquo;est qu&amp;rsquo;un an plus tard, en 1887, qu&amp;rsquo;il adopte le nom de &lt;strong&gt;Cercle des Nébuleux&lt;/strong&gt;, probablement sous l&amp;rsquo;influence de confrères établis à Liège. Comme c&amp;rsquo;était souvent le cas à l&amp;rsquo;époque, il s&amp;rsquo;agit d&amp;rsquo;un cercle réunissant de jeunes bourgeois privilégiés, où la vie mondaine se mêle au réseautage. Son principal objectif est d&amp;rsquo;organiser bals, fêtes, banquets et autres divertissements. Pourtant, au-delà de son apparente légèreté, le cercle s&amp;rsquo;impose comme une institution influente, accueillant des figures marquantes telles que &lt;strong&gt;George Garnir&lt;/strong&gt;, auteur du Semeur. Par ses rites et son décorum, il laisse une empreinte durable sur les ordres qui émergeront à l&amp;rsquo;ULB au cours du siècle suivant.&lt;/p&gt;</description>
       
     </item>
     

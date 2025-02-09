@@ -3,11 +3,11 @@
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title itemprop="name">Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn</title>
-<meta property="og:title" content="Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn" />
-<meta name="twitter:title" content="Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn" />
-<meta itemprop="name" content="Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn" />
-<meta name="application-name" content="Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn" />
+<title itemprop="name">Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn</title>
+<meta property="og:title" content="Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn" />
+<meta name="twitter:title" content="Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn" />
+<meta itemprop="name" content="Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn" />
+<meta name="application-name" content="Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes | lvbckn" />
 <meta property="og:site_name" content="Awesome hugo blog" />
 
 <meta name="description" content="Thème minimal pour blog Hugo avec prise en charge des modes clair et sombre">
@@ -46,14 +46,14 @@
     {
         "@context": "http://schema.org",
         "@type": "Article",
-        "headline": "Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes",
+        "headline": "Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes",
         "author": {
         "@type": "Person",
         "name": ""
         },
         "datePublished": "2025-02-08",
         "description": "",
-        "wordCount":  129 ,
+        "wordCount":  1401 ,
         "mainEntityOfPage": "True",
         "dateModified": "2025-02-08",
         "image": {
@@ -73,7 +73,7 @@
     
     <meta property="og:url" content="http://localhost:1313/posts/n%C3%A9buleux/">
   <meta property="og:site_name" content="lvbckn">
-  <meta property="og:title" content="Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes">
+  <meta property="og:title" content="Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes">
   <meta property="og:description" content="Du Cercle Aux origines, le Cercle de Bohèmes voit le jour en 1886. Ce n’est qu’un an plus tard, en 1887, qu’il adopte le nom de Cercle des Nébuleux, probablement sous l’influence de confrères établis à Liège. Comme c’était souvent le cas à l’époque, il s’agit d’un cercle réunissant de jeunes bourgeois privilégiés, où la vie mondaine se mêle au réseautage. Son principal objectif est d’organiser bals, fêtes, banquets et autres divertissements. Pourtant, au-delà de son apparente légèreté, le cercle s’impose comme une institution influente, accueillant des figures marquantes telles que George Garnir, auteur du Semeur. Par ses rites et son décorum, il laisse une empreinte durable sur les ordres qui émergeront à l’ULB au cours du siècle suivant.">
   <meta property="og:locale" content="fr_fr">
   <meta property="og:type" content="article">
@@ -85,7 +85,7 @@
     
     
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes">
+  <meta name="twitter:title" content="Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes">
   <meta name="twitter:description" content="Du Cercle Aux origines, le Cercle de Bohèmes voit le jour en 1886. Ce n’est qu’un an plus tard, en 1887, qu’il adopte le nom de Cercle des Nébuleux, probablement sous l’influence de confrères établis à Liège. Comme c’était souvent le cas à l’époque, il s’agit d’un cercle réunissant de jeunes bourgeois privilégiés, où la vie mondaine se mêle au réseautage. Son principal objectif est d’organiser bals, fêtes, banquets et autres divertissements. Pourtant, au-delà de son apparente légèreté, le cercle s’impose comme une institution influente, accueillant des figures marquantes telles que George Garnir, auteur du Semeur. Par ses rites et son décorum, il laisse une empreinte durable sur les ordres qui émergeront à l’ULB au cours du siècle suivant.">
 
 
@@ -115,6 +115,70 @@
     <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg">
 
     
+    
+      <style>
+   
+  .lightbox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease;
+  }
+
+  .lightbox-overlay img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+  }
+
+  .lightbox-overlay.show {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .lightbox-overlay::after {
+    content: "✕";
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const images = document.querySelectorAll("article img"); 
+    const overlay = document.createElement("div");
+    overlay.classList.add("lightbox-overlay");
+    document.body.appendChild(overlay);
+
+    const imgElement = document.createElement("img");
+    overlay.appendChild(imgElement);
+
+    images.forEach((img) => {
+      img.style.cursor = "pointer";
+      img.addEventListener("click", function () {
+        imgElement.src = img.src;
+        overlay.classList.add("show");
+      });
+    });
+
+    overlay.addEventListener("click", function () {
+      overlay.classList.remove("show");
+    });
+  });
+</script>
     
 </head>
 <body data-theme = "dark" class="notransition">
@@ -184,7 +248,7 @@ stroke-linejoin="round" class="feather feather-home">
     <main class="page-content" aria-label="Content">
         <article>
             <header class="header">
-                <h1 class="header-title">Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes</h1>
+                <h1 class="header-title">Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes</h1>
                 
                 
                 
@@ -195,15 +259,99 @@ stroke-linejoin="round" class="feather feather-home">
             </header>
             
             <div class="page-content">
-                <p><img src="/posts/n%C3%A9buleux/n%C3%A9buleux.jpg" alt=""></p>
+                <style>
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%; /* Pour garantir que l'image ne dépasse pas la largeur de l'écran */
+  }
+</style>
+<p><img src="/posts/n%C3%A9buleux/n%C3%A9buleux.jpg" alt=""></p>
 <h1 id="du-cercle">Du Cercle</h1>
-<p>Aux origines, le Cercle de Bohèmes voit le jour en 1886. Ce n&rsquo;est qu&rsquo;un an plus tard, en 1887, qu&rsquo;il adopte le nom de Cercle des Nébuleux, probablement sous l&rsquo;influence de confrères établis à Liège. Comme c&rsquo;était souvent le cas à l&rsquo;époque, il s&rsquo;agit d&rsquo;un cercle réunissant de jeunes bourgeois privilégiés, où la vie mondaine se mêle au réseautage. Son principal objectif est d&rsquo;organiser bals, fêtes, banquets et autres divertissements. Pourtant, au-delà de son apparente légèreté, le cercle s&rsquo;impose comme une institution influente, accueillant des figures marquantes telles que George Garnir, auteur du Semeur. Par ses rites et son décorum, il laisse une empreinte durable sur les ordres qui émergeront à l&rsquo;ULB au cours du siècle suivant.</p>
+<p>Aux origines, le <strong>Cercle de Bohèmes</strong> voit le jour en 1886. Ce n&rsquo;est qu&rsquo;un an plus tard, en 1887, qu&rsquo;il adopte le nom de <strong>Cercle des Nébuleux</strong>, probablement sous l&rsquo;influence de confrères établis à Liège. Comme c&rsquo;était souvent le cas à l&rsquo;époque, il s&rsquo;agit d&rsquo;un cercle réunissant de jeunes bourgeois privilégiés, où la vie mondaine se mêle au réseautage. Son principal objectif est d&rsquo;organiser bals, fêtes, banquets et autres divertissements. Pourtant, au-delà de son apparente légèreté, le cercle s&rsquo;impose comme une institution influente, accueillant des figures marquantes telles que <strong>George Garnir</strong>, auteur du Semeur. Par ses rites et son décorum, il laisse une empreinte durable sur les ordres qui émergeront à l&rsquo;ULB au cours du siècle suivant.</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="carte1.jpg" style="max-width: 40%; height: auto;">
+    <img src="carte2.jpg" style="max-width: 40%; height: auto;">
+</div>
 <h2 id="lorganisation">L&rsquo;organisation</h2>
+<p>L&rsquo;organisation du Cercle repose sur une structure rigoureuse, comptant <strong>strictement 13 membres</strong>. Ce nombre, chargé de symbolisme, aurait été choisi par anticléricalisme. Chacun des membres occupe une fonction précise et se voit attribuer un titre à la fois officiel et empreint d&rsquo;une certaine légèreté.</p>
+<p><img src="/posts/n%C3%A9buleux/fonctions.jpg" alt=""></p>
+<p>Certaines fonctions assurent la gestion administrative et morale du Cercle, à l’image de celles que l’on retrouve dans d’autres organisations :</p>
+<ul>
+<li><strong>Président</strong></li>
+<li><strong>Vice-Président</strong></li>
+<li><strong>Gardien des lois, règles, us et coutumes</strong> : garant des principes moraux et du respect des traditions.</li>
+<li><strong>Secrétaire</strong></li>
+<li><strong>Ministre des finances</strong></li>
+<li><strong>Grand Échanson</strong> : chargé de la boisson.</li>
+</ul>
+<p>Ainsi que d’autres fonctions, plus singulières :</p>
+<ul>
+<li><strong>Pipelet du Temple</strong> : chargé de la surveillance et de la porte d&rsquo;entrée. Pipelet est probablement issus de &ldquo;Mystères de Paris&rdquo; de 1843.</li>
+<li><strong>Porte-étendard</strong></li>
+<li><strong>Bibliothécaire</strong></li>
+<li><strong>Directeur du Conservatoire</strong></li>
+<li><strong>Correspondant de la Planète Mars</strong></li>
+<li><strong>Ingénieur, chef du service de la Traction et du Matériel roulant</strong></li>
+<li><strong>Frère Taillable et Corvéable presqu’à merci</strong> : dernier intronisé.</li>
+</ul>
+<blockquote>
+<p>Il reste encore à établir une correspondance entre ces rôles historiques et leurs équivalents actuels.</p></blockquote>
+<p>Un article du &ldquo;Journal des Etudiants&rdquo; de 1890 témoignera de la volonté de maintenir un cercle de taille restreinte :</p>
+<blockquote>
+<p>La prospérité du Cercle, toujours croissante, doit être attribuée au nombre restreint des membres qui, pour être admis, doivent compter au moins deux ans d’Université (ceci dans le but d’éloigner du Cercle l’élément gosse toujours envahissant) et obtenir l’unanimité des voix.</p></blockquote>
 <h2 id="lintronisation">L&rsquo;intronisation</h2>
+<blockquote>
+<p>💡L&rsquo;ensemble de ces informations sont tirées des mémoires de Charles Sillevaerts du nom de <em>&ldquo;In illo tempore&rdquo;</em> datant de 1963</p></blockquote>
+<p>Nous pouvons séparer l&rsquo;intronisation nébuleuse en 3 parties distinctes.</p>
+<h3 id="la-candidature">La candidature</h3>
+<p>Les candidatures au sein du cercle étaient fréquentes et nombreuses. Toutefois, en raison de la limite fixée à 13 membres actifs et du souci de confier chaque fonction à une personne répondant à toutes les exigences requises, le recrutement ne se faisait pas systématiquement parmi les postulants.</p>
+<p>Une fois sélectionnés, les candidats étaient soumis à l’examen de la <strong>&ldquo;Chambre négative&rdquo;</strong>, généralement présidée par le &ldquo;Gardien des lois, règles, us et coutumes&rdquo;. Cette séance d’interrogation avait pour but de s’assurer que chaque postulant répondait aux attentes fixées. À l’issue de cet entretien, un vote secret à l’unanimité déterminait leur passage à la chambre suivante.</p>
+<p>Après leur passage en « Chambre négative », les candidats sont examinés par la « Chambre affirmative », présidée par le Vice-Président, également appelé l’Honorable. Cette étape vise à confirmer que chaque postulant répond aux exigences requises (ou  <strong>dignes entrare</strong>). Un rapport détaillé est alors rédigé puis présenté en séance plénière pour validation. Charles Sillevaerts précise que, bien que cette étape ne fût qu’une formalité, elle était néanmoins imposée par la Règle. Une fois cette seconde chambre franchie, les candidats pouvaient être considérés comme impétrant Nébuleux</p>
+<blockquote>
+<p>⚠️ Le terme &ldquo;impétrant Nébuleux&rdquo; n&rsquo;est pas une appellation historique et n&rsquo;est pas utilisé dans la littérature.</p></blockquote>
+<h3 id="lapprentissage">L&rsquo;apprentissage</h3>
+<p>Lors de leur <strong>intronisation</strong>, les candidats devaient se soumettre à un examen médical effectué par un médecin des Nébuleux afin d’éliminer tout risque de syphilis ou de tuberculose. En effet, Charles Sillevaerts rapporte que les membres du cercle buvaient tous dans la même coupe.
+Une fois cette formalité accomplie, ils étaient conviés à suivre le cours des Novices, organisé une fois par semaine du 15 novembre au 15 décembre. Ces sessions portaient principalement sur <strong>l&rsquo;étude de la &ldquo;Règle&rdquo;</strong>, ainsi que sur des conférences – au nombre de quatre – dont le choix revenait au <strong>prêcheur</strong>.</p>
+<p>La disposition de la salle est décrite comme suit : quatre rangées de chaises étaient disposées face à une tribune d’où s’exprimaient les &ldquo;Maîtres&rdquo;. La première rangée était réservée aux candidats, qui disposaient d’une table pour prendre des notes. Derrière eux, au deuxième rang, se trouvaient le fauteuil du &ldquo;Vénérable &ldquo;&quot;(Vice-Président) et le tabouret du &ldquo;Frère Taillable et Corvéable presque à merci&rdquo;, c&rsquo;est-à-dire le dernier intronisé.
+Les membres de la Chambre affirmative occupaient le troisième rang, tandis que ceux de la Chambre négative prenaient place au dernier rang. En l’absence du Vice-Président, l’une de ses pantoufles était suspendue au-dessus de son fauteuil durant le cours et retirée pour la conférence.
+Charles Sillevaerts précise que, lorsqu’ils évoquaient les fonctions des membres Nébuleux, les candidats <strong>manifestaient leur respect</strong> en levant la main droite. Lorsque le Vénérable était mentionné, ils devaient se retourner précipitamment et s’incliner devant lui.</p>
+<blockquote>
+<p>image à venir</p></blockquote>
+<p>Lors des séances secrètes, le Gardien de la Règle réprimandait les délinquants en leur touchant l’épaule avec une grande canne à pêche. Toutefois, lorsqu’il prenait place à la tribune, il déléguait ses pouvoirs ainsi que sa canne au Frère Taillable et Corvéable presque à merci. Ce dernier se voyait alors confier, à titre exceptionnel, la responsabilité de tenir le registre des dons involontaires.
+Bien que ces amendes étaient minimes, leur fréquence et leur accumulation finissaient par représenter une somme conséquente. Celle-ci était intégralement versée au <strong>&ldquo;Fonds des victimes de la sécheresse&rdquo;</strong>, destiné à assurer le remplissage de la coupe.</p>
+<blockquote>
+<p>💡 Notons que les Nébuleux furent parmi les premiers à adopter un modèle de séances en deux parties : la première, secrète, était strictement réservée aux membres, tandis que la seconde, à vocation récréative, était ouverte au public.</p></blockquote>
+<h3 id="lexamen">L&rsquo;examen</h3>
+<p>En fin de cours, les candidats étaient soumis à un examen composé de trois épreuves écrites. La première portait sur les matières enseignées et devait être repassée par le candidat jusqu’à l’obtention d’une note minimale de 10 sur 20.</p>
+<p>La seconde épreuve consistait en la résolution de deux problèmes arithmétiques <strong>&ldquo;puérils et honnêtes&rdquo;</strong>, redoutés bien souvent par les candidats. Elle était présentée devant l&rsquo;&ldquo;Ingénieur, chef du service du matériel roulant et de la tractation&rdquo; et permettait d’obtenir un diplôme unique :</p>
+<ul>
+<li>La plus grande distinction avec baise du Président : 20</li>
+<li>La plus grande distinction : de 18,1 à 19,9</li>
+<li>La grande distinction : de 15 à 18</li>
+<li>La distinction : de 12,1 à 14,9</li>
+<li>La satisfaction : de 10,1 à 12</li>
+<li>L’incapacité simple : de 7,1 à 10</li>
+<li>L’incapacité bien établie : de 5,1 à 7</li>
+<li>La nullité simple : de 3,1 à 5</li>
+<li>La nullité pitoyable : de 0,1 à 3</li>
+<li>La nullité inconcevable avec consternation du Jury : 0</li>
+</ul>
+<p>La troisième et dernière épreuve consistait en la rédaction d’une thèse d’au moins 80 lignes sur un sujet imposé, rédigée dans l’une des trois langues nationales ou en latin. Les candidats étaient ensuite conviés à défendre leur thèse en séance publique, sous le jugement du Vénérable, assisté des présidents des deux chambres.</p>
+<h3 id="linitiation">L&rsquo;initiation</h3>
+<p>Après la période d&rsquo;apprentissage, les candidats étaient confrontés aux épreuves d&rsquo;initiation. L’une d’entre elles est mentionnée par Raymon Jaquot dans &ldquo;Pour avoir évoqué les &lsquo;Nébuleux&rsquo;&rdquo;, et consistait à passer 48 heures en habit de cérémonie, sans être autorisé à retourner chez soi, ce dernier étant surveillé.
+Il était également requis de payer un tonneau de bienvenue ou de verser la somme de 7 francs au cercle.</p>
+<blockquote>
+<p>⚠️ Il est difficile de reconstituer précisément l’ensemble des épreuves en raison des nombreux changements rapportés dans les différentes sources.</p></blockquote>
+<p>À la fin de son initiation, le jour de son intronisation, le nouveau Nébuleux recevait un surnom folklorique faisant référence à sa vie personnelle.
+Une fois leur diplôme final obtenu, les Nébuleux accédaient automatiquement à l&rsquo;honorariat et étaient invités, à « honorer les réunions de leur présence ». La Règle stipulait que ceux d’entre eux qui jouissaient d’une certaine éducation devaient offrir un tonneau de bière lors de ces occasions.</p>
 <h2 id="la-première-guerre-et-les-macchabées">La première guerre et les Macchabées</h2>
 <h1 id="sources-">Sources :</h1>
 <ul>
-<li></li>
+<li>Sillevaerts, C. (1963). In illo tempore &hellip; Presses académiques européennes. Bibliothèque des sciences humaines Simone Veil</li>
+<li>Raymond Jacquot, « Pour avoir évoqué les « Nébuleux », Bulletin de l’Union des Anciens Etudiants, mars 1963</li>
+<li>L’Agenda, « Les sectes à l’ULB »tempore &hellip; Presses académiques européennes. Bibliothèque des sciences humaines Simone Veil</li>
 </ul>
 
             </div>

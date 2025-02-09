@@ -53,7 +53,7 @@
         },
         "datePublished": "2025-02-04",
         "description": "",
-        "wordCount":  693 ,
+        "wordCount":  1192 ,
         "mainEntityOfPage": "True",
         "dateModified": "2025-02-04",
         "image": {
@@ -117,6 +117,70 @@ Autrefois connus sous le nom de Funèbre Macchabées, ils adoptèrent cette appe
     <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg">
 
     
+    
+      <style>
+   
+  .lightbox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease;
+  }
+
+  .lightbox-overlay img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+  }
+
+  .lightbox-overlay.show {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .lightbox-overlay::after {
+    content: "✕";
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const images = document.querySelectorAll("article img"); 
+    const overlay = document.createElement("div");
+    overlay.classList.add("lightbox-overlay");
+    document.body.appendChild(overlay);
+
+    const imgElement = document.createElement("img");
+    overlay.appendChild(imgElement);
+
+    images.forEach((img) => {
+      img.style.cursor = "pointer";
+      img.addEventListener("click", function () {
+        imgElement.src = img.src;
+        overlay.classList.add("show");
+      });
+    });
+
+    overlay.addEventListener("click", function () {
+      overlay.classList.remove("show");
+    });
+  });
+</script>
     
 </head>
 <body data-theme = "dark" class="notransition">
@@ -212,9 +276,10 @@ stroke-linejoin="round" class="feather feather-home">
 <p>Autrefois connus sous le nom de Funèbre Macchabées, ils adoptèrent cette appellation en hommage aux frères d’armes ayant côtoyé la mort de près dans les tranchées. Un article du Soir de 1999 rapporte que des étudiants envoyés au combat furent approchés par des Maçons, qui leur transmirent les rites et l’esprit de fraternité maçonnique afin de rendre plus paisible leurs vie dans les tranchées.</p>
 <p>Cet esprit fut par la suite intégré à l’ULB, donnant naissance à ce qui est probablement – bien que les sources divergent – l’un des ordres ayant perduré le plus longtemps, en dehors des cercles facultaires.</p>
 <h1 id="de-lordre">De l&rsquo;Ordre</h1>
+<p>À l&rsquo;origine, l&rsquo;ordre était <strong>exclusivement masculin</strong>. Bien que marqué par un <strong>élitisme</strong> dès sa création, une partie des réunions restait accessible à l’ensemble de la communauté universitaire, conformément à la tradition Nébuleuse. Ce n’est qu’en 1931 que l’ordre choisit de basculer dans le <strong>secret</strong>. De plus, sous la pression de l&rsquo;ULB, de nombreux ordres masculins ont été contraints d&rsquo;ouvrir leurs portes à leurs équivalents féminins par souci d&rsquo;équité, bien que l&rsquo;inverse ne se soit pas produit. C&rsquo;est ainsi qu&rsquo;en 1981, la première <strong>Grande Maîtresse</strong> a été désignée.</p>
 <h2 id="le-symbolisme">Le Symbolisme</h2>
 <p>L&rsquo;Ordre adopte un rituel riche et un vocabulaire distinct, marqué par l&rsquo;antiphrase, le macabre et l&rsquo;anticléricalisme, donnant ainsi naissance à un langage codé.</p>
-<p>Gràce au Frère Chassepot ayant consacré un article dans &ldquo;La pensée des Hommes&rdquo; et aux archives de l&rsquo;ULB, nous pouvons citer en exemple de ce vocabulaire les jours de la semaine tel que <strong>Baisedi, Boiredi, &hellip;</strong> ou encore les mois de l&rsquo;année tel que <strong>Busidor, Vinéal, &hellip;</strong>
+<p>Grâce au Frère Chassepot ayant consacré un article dans &ldquo;La pensée des Hommes&rdquo; et aux archives de l&rsquo;ULB, nous pouvons citer en exemple de ce vocabulaire les jours de la semaine tel que <strong>Baisedi, Boiredi, &hellip;</strong> ou encore les mois de l&rsquo;année tel que <strong>Busidor, Vinéal, &hellip;</strong>
 Ainsi le profane est souvent désigné comme <strong>&ldquo;vif&rdquo;</strong> en opposition aux membres <strong>&ldquo;défunts&rdquo;</strong> et les texte en internes prennent des tournures inverse du type :</p>
 <blockquote>
 <p>la prochaine tenure n&rsquo;aura pas lieu tel jour ou la présence des Frères n&rsquo;est pas souhaitée &hellip;  <br>
@@ -226,24 +291,25 @@ Ainsi le profane est souvent désigné comme <strong>&ldquo;vif&rdquo;</strong> 
 <li><strong>Méticuleux Gardien des Rites</strong> : chargé du respect de la tradition et du règlement.</li>
 <li><strong>Talentueux Graphiste</strong> : chargé de transcrire poèmes et chansons.</li>
 <li><strong>Mélodieux Barde</strong> : chargé de l&rsquo;accompagnement musical.</li>
-<li><strong>Hermétique Pylore</strong> : chargé de la surveillance et de la porte d&rsquo;entrée.</li>
+<li><strong>Hermétique Pylore</strong> : chargé de la surveillance et de la porte d&rsquo;entrée. Le pylore est la partie de l&rsquo;estomac qui contrôle le passage des aliments vers l&rsquo;intestin grêle.</li>
 </ul>
 <p>et en <strong>&ldquo;officiers supérieur&rdquo;</strong> :</p>
 <ul>
 <li><strong>Laborieux Grand Greffier</strong> : chargé secrétaire.</li>
 <li><strong>Très Redoutable Grand Inquisiteur</strong> : chargé discipline.</li>
-<li><strong>Très Redoutable Grand Harpagnon</strong> : chargé trésorerie.</li>
-<li><strong>Cruel Exécuteur des Hautes Oeuvres</strong>: chargé de faire respecter la justice</li>
+<li><strong>Très Redoutable Grand Harpagnon</strong> : chargé trésorerie. Harpagons est un personnage de Molière issus de la pièce &ldquo;L&rsquo;avare&rdquo;, de nature avare et cupide.</li>
+<li><strong>Cruel Exécuteur des Hautes Œuvres</strong>: chargé de faire respecter la justice</li>
 </ul>
 <blockquote>
 <p>📖 <strong>Du XIII</strong> : Repris des Nébuleux et probablement issus de beaucoup d&rsquo;autres ordre de la même envergure tel que les &ldquo;Skull and Bones&rdquo; de Yale, dans la numérologie il est fortement lié à l&rsquo;anti clérical dans la culture occidentale sauf en Italie où il porte chance.</p></blockquote>
+<p>Pendant leurs tenures, les frères revêtent une toge et une cagoule noires. La réunion se déroule dans un lieu gardé secret, éclairé à la seule lueur des bougies. Un crâne, symbole de puissance souveraine plutôt que de memento mori, repose sur un autel recouvert de draperies noires.</p>
 <h2 id="le-recrutement">Le Recrutement</h2>
 <p>L&rsquo;intégration au sein de l’ordre se fait par cooptation, où chaque nouveau membre doit satisfaire des critères stricts établis par les anciens afin de garantir la cohésion du groupe.
 Le premier contact s’établit généralement par une lettre ou un appel téléphonique anonyme. À cette occasion, il est fréquent que le candidat reçoive pour consigne de se bander les yeux et d’attendre sur un banc de l’abbaye de la Cambre.
 Ensuite, les postulants sont soumis à une enquête approfondie ainsi qu’à un interrogatoire portant sur leur parcours dans le milieu étudiant. Avant l’intronisation, un vote des membres de l’ordre détermine leur admission à l&rsquo;intronisation.</p>
 <blockquote>
 <p><strong>Image à paraître</strong></p></blockquote>
-<p>Il est néanmoins possible de candidater en remplissant un formulaire disponible derrière chaque &ldquo;Bruxelles Universitaire&rdquo;. Cette méthode est probablement un canular, mais elle fait également écho aux origines de l’ordre, qui était autrefois plus ouvert et autorisait ce type de candidature jusqu’aux années [X].</p>
+<p>Il est néanmoins possible de candidater en remplissant un formulaire disponible derrière chaque &ldquo;Bruxelles Universitaire&rdquo;. De nos jours, cette méthode est sans doute une supercherie. Toutefois, elle rappelle les origines de l’ordre, qui était autrefois plus accessible et acceptait ce mode de candidature jusqu’en 1928.</p>
 <p><img src="/posts/offmakb/candidature.jpg" alt=""></p>
 <blockquote>
 <p>Candidature issue du BU Saint-V 2024 / Saint-V CVII. <br>
@@ -254,15 +320,30 @@ Réponse sous les 13 jours (naturellement) <br>
 <li>L&rsquo;arbre en face du CM</li>
 <li>L&rsquo;arbre en face de la Jefke <br></li>
 </ul></blockquote>
-<h2 id="le-rôle-de-lordre-dans-le-folklore">Le Rôle de l&rsquo;Ordre dans le Folklore</h2>
-<p><a href="/posts/offmakb/fanfare.jpg"></a></p>
+<h2 id="le-rôle-de-lordre-en-interne-et-dans-le-folklore">Le Rôle de l&rsquo;Ordre en interne et dans le folklore</h2>
+<p>Le but de l&rsquo;Ordre était de promouvoir avant tout un groupe construit sur la <strong>camaraderie</strong> estudiantine, afin de <strong>défendre les traditions</strong> estudiantines et les valeurs de l&rsquo;ULB, comme le libre examen et la liberté d&rsquo;expression tout en écartant de l&rsquo;ULB les étudiants issus de l&rsquo;enseignement clérical.</p>
 <blockquote>
-<p>Ici une image de la fanfare du cercle de Médecine. Cependant, nous pouvons apercevoir Jefke pointer gaiement sa tête parmis les membres.</p></blockquote>
+<p>Nous parlerons de la mort du Librex notamment par les Macchas prochainement.</p></blockquote>
+<p>Dans cette optique, nous retrouvons souvent lors d&rsquo;évènement marquant des tracts et des affiches terminées par “Si la communauté universitaire ne réagit pas, les Macchas, eux, réagiront” mais aussi  la parution de journaux tel que la &ldquo;<strong>Bulle</strong>&rdquo; ou encore le &ldquo;<strong>Bruxelles Universitaire</strong>&rdquo;.</p>
+<p><img src="bulle.png" alt=""></p>
+<p>Au sein de l’Ordre, les frères macchabées sont généralement tenus de produire un travail à chaque tenure. Celui-ci peut revêtir une dimension artistique, à travers une chanson, un poème ou une caricature, ou s’inscrire dans une démarche plus analytique, sous forme de dissertation, de réflexion ou de débat sur le folklore. De plus, en raison du caractère élitiste de l’Ordre et de son souhait de recruter principalement des individus bien intégrés dans un cercle, il est attendu des frères qu’ils participent activement à la vie estudiantine, que ce soit au sein de leur propre cercle ou du cercle du Libre Examen. Un article du &ldquo;Bruxelles Universitaire&rdquo; de 1928 exprime bien cette dernière volonté :</p>
+<p><img src="/posts/offmakb/BU1928.png" alt=""></p>
+<p>Tout ce rituel ne prétend ni imiter ni tourner en dérision la franc-maçonnerie. Cependant, l’idée d’<strong>antichambre</strong> est souvent évoquée à propos de l’ordre. En effet, il n’est pas rare qu’un frère, après avoir quitté la vie universitaire, finisse par rejoindre une loge, comme l’explique Chassepot :</p>
+<blockquote>
+<p>[&hellip;] mais j&rsquo;ai ressenti une profonde joie à retrouver en loge un grand nombre de mes anciens compagnons de la vie universitaire.</p></blockquote>
+<h1 id="quelle-pertinence-">Quelle pertinence ?</h1>
 <h1 id="sources-">Sources :</h1>
 <ul>
 <li>Article du journal le Soir de 1999 : &ldquo;A LA UNE LES CERCLES DU VOIR, DU SAVOIR ET DU POUVOIR&hellip;&rdquo;</li>
+<li>Article du journal le Soir de 1979 : &quot;&quot;</li>
+<li>Bruxelles Universitaire Saint-V 2024 :</li>
+<li>Bruxelles Universitaire Janvier 1928 :</li>
 <li>&ldquo;La pensée des Hommes - Sous le masque de la franc-maçonnerie&rdquo;, 13e ouvrage.</li>
+<li>Archives de l&rsquo;ULB.</li>
 </ul>
+<p><img src="/posts/offmakb/fanfare.jpg" alt=""></p>
+<blockquote>
+<p>Ici une image de la fanfare du cercle de Médecine lors de la Saint-V de 1931. Cependant, nous pouvons apercevoir Jefke pointer gaiement sa tête parmi les membres. Notons aussi la présence d&rsquo;un clystère, souvent utilisé dans la symbolique des premiers ordres et cercles.</p></blockquote>
 
             </div>
         </article></main>

@@ -53,7 +53,7 @@
         },
         "datePublished": "2025-02-04",
         "description": "",
-        "wordCount":  1398 ,
+        "wordCount":  1442 ,
         "mainEntityOfPage": "True",
         "dateModified": "2025-02-04",
         "image": {
@@ -117,6 +117,70 @@ Fondé le 6 décembre 1980, l’Ordre du Faro trouve ses origines dans un cercle
     <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg">
 
     
+    
+      <style>
+   
+  .lightbox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease;
+  }
+
+  .lightbox-overlay img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+  }
+
+  .lightbox-overlay.show {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .lightbox-overlay::after {
+    content: "✕";
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const images = document.querySelectorAll("article img"); 
+    const overlay = document.createElement("div");
+    overlay.classList.add("lightbox-overlay");
+    document.body.appendChild(overlay);
+
+    const imgElement = document.createElement("img");
+    overlay.appendChild(imgElement);
+
+    images.forEach((img) => {
+      img.style.cursor = "pointer";
+      img.addEventListener("click", function () {
+        imgElement.src = img.src;
+        overlay.classList.add("show");
+      });
+    });
+
+    overlay.addEventListener("click", function () {
+      overlay.classList.remove("show");
+    });
+  });
+</script>
     
 </head>
 <body data-theme = "dark" class="notransition">
@@ -211,8 +275,10 @@ stroke-linejoin="round" class="feather feather-home">
 <p>Fondé le <strong>6 décembre 1980</strong>, l&rsquo;Ordre du Faro trouve ses origines dans un cercle d’étudiants et d’anciens étudiants qui se réunissaient au Bon Père Faro. Rapidement, la confrérie gagne en notoriété grâce à son association avec la Société des Agathopèdes (nous en parlerons plus bas), qui contribue à sa mise en avant. Cette relation particulière est évoquée dans le texte &ldquo;Histoire de la naissance de notre confrérie d’après Betty de Nil&rdquo;, où l’on peut lire :</p>
 <blockquote>
 <p>Il était une fois deux copains, Michel DAVID et Charles FONTAINE de GHELIN, l’un cuisinier de son état et membre de l’ association des « Agathopèdes », l’autre patron du bistrot « Père Faro » chaussée d’Alsemberg à Uccle et grand collectionneur d’articles de bières. Michel DAVID nous contacta, Marcel DEDOBBELEER et moi-même dans le courant de l’année 1980 pour nous informer de leur souhait de créer une confrérie défendant la bière bruxelloise [&hellip;]</p></blockquote>
-<p>Aujourd’hui, l’Ordre du Faro est devenu une ASBL reconnue par le Conseil Noble Bruxelles Brabant (CNBB) et rassemble une vingtaine de membres actifs. Bien que son existence ait pu sembler marquée par le temps, l’Ordre a récemment suscité l’intérêt des étudiants à tendence ordinesque, entraînant un rajeunissement notable de ses membres.</p>
-<h1 id="du-lambic-et-ses-variations-">Du Lambic et ses variations :</h1>
+<p>Aujourd’hui, l’Ordre du Faro est devenu une ASBL reconnue par le Conseil Noble Bruxelles Brabant (CNBB) et rassemble une vingtaine de membres actifs. Bien que son existence ait pu sembler marquée par le temps, l’Ordre a récemment suscité l’intérêt des étudiants à tendance ordinesque, entraînant un rajeunissement notable de ses membres.</p>
+<h1 id="du-lambic-et-de-ses-variations-">Du Lambic et de ses variations :</h1>
+<blockquote>
+<p>💡 Cette section, bien que légèrement en marge du sujet principal de l&rsquo;article, vise à apporter un éclairage sur les valeurs défendues par l&rsquo;Ordre du Faro. Elle s&rsquo;inscrit donc davantage comme un complément d&rsquo;information que comme un élément directement essentiel au propos initial.</p></blockquote>
 <h2 id="le-lambic--une-bière-à-fermentation-spontanée">Le Lambic : Une Bière à Fermentation Spontanée</h2>
 <p>Le lambic est une bière à <strong>fermentation spontanée,</strong> exclusivement produite dans la vallée de la Senne (au sud de Bruxelles) et dans le Pajottenland (à l’ouest de Bruxelles). Brassé en hiver, il est exposé à l’air libre durant une nuit afin d’être ensemencé par des bactéries et des levures sauvages, notamment Brettanomyces bruxellensis et Brettanomyces lambicus.</p>
 <p>Après cette phase d’ensemencement, le lambic est généralement vieilli en fût ou en bouteille pendant une période variant entre 3 et 9 mois, donnant naissance à différentes déclinaisons :</p>
