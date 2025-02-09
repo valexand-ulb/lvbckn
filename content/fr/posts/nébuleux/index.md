@@ -118,9 +118,24 @@ Une fois leur diplôme final obtenu, les Nébuleux accédaient automatiquement �
 
 ## La première guerre et les Macchabées
 
+La Première Guerre mondiale a profondément bouleversé la composition sociale de la Belgique et du monde universitaire. L’accès aux études supérieures, autrefois réservé aux fils de bonnes familles, s’ouvre progressivement à des étudiants issus de milieux plus modestes, notamment des enfants de fonctionnaires ou d’anciens combattants.
+
+Si ce changement en soi n’explique pas directement la disparition des Nébuleux, l’évolution des mentalités joue un rôle déterminant. L’esprit festif et les bals, jadis omniprésents, trouvent de moins en moins leur place dans une société marquée par la rigueur et la reconstruction. Dans ce contexte, prolonger ses études sur une dizaine d’années, une pratique courante parmi les membres du cercle, devient socialement mal perçu.
+
+Une lettre datant de 1927, conservée dans les archives de l'Université, témoigne à la fois de la perte des archives du cercle et de l'organisation d'un banquet pour ses membres au seins du **"Diable au corp"**. Il s'agit de l'une des dernières traces laissées par les Nébuleux.
+
+>  Cher Camarade, Le cercle des Nébuleux, dont vous fûtes, nos archives en font foi, un des membres les plus dévoués, n’a pas survécu à la guerre
+
+> Image à venir
+
+Selon certaines sources, les Nébuleux auraient continué à se réunir quelque temps au "Diable au Corps". Cependant, avec l’apparition des **Funèbres Macchabées**, certains membres auraient progressivement délaissé leur cercle d’origine au profit de cette nouvelle société.
+
+
+
+
 
 
 # Sources : 
 - Sillevaerts, C. (1963). In illo tempore ... Presses académiques européennes. Bibliothèque des sciences humaines Simone Veil
 - Raymond Jacquot, « Pour avoir évoqué les « Nébuleux », Bulletin de l’Union des Anciens Etudiants, mars 1963
-- L’Agenda, « Les sectes à l’ULB »tempore ... Presses académiques européennes. Bibliothèque des sciences humaines Simone Veil
+- L’Agenda, « Les sectes à l’ULB »
