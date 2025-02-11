@@ -1,6 +1,6 @@
 ---
 title: "Relation entre ordres : de 1830 à nos jours"
-date: '2025-02-10'
+date: '2025-02-11T23:59:38+01:00'
 author:
 description: "Frise chronologique"
 ---
@@ -34,9 +34,7 @@ description: "Frise chronologique"
 
 # Des Truands aux Coquillards : une grande famille
 
-## Les Frères Truands
-
-## Les Frères Coquillards
+## Les Frères Truands et Les Frères Coquillards
 
 ## Corneilles et Templiers
 
@@ -71,6 +69,7 @@ description: "Frise chronologique"
 - Ordre studentyssime vesnerable et trez magnyfyque de François Villon de Montcorbier
 - Bertiens
 - Chouans
+- Chéloniens
 - Ciceros
 - Cinq Glands
 - Cocotiers
