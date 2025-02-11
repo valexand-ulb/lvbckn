@@ -21,7 +21,7 @@ pinned : false
 
 ![](/meme.png)
 
-# De l'origine : 
+# De l'Origine : 
 C'est probablement dans la continuité des **Nébuleux** et des **Sauriens** (alors en voie d'extinction) qu'émerge, après la Première Guerre mondiale, l'**Ordre des Frères Macchabées**. 
 
 Autrefois connus sous le nom de Funèbre Macchabées, ils adoptèrent cette appellation en hommage aux frères d’armes ayant côtoyé la mort de près dans les tranchées. Un article du Soir de 1999 rapporte que des étudiants envoyés au combat furent approchés par des Maçons, qui leur transmirent les rites et l’esprit de fraternité maçonnique afin de rendre plus paisible leurs vie dans les tranchées.
@@ -75,7 +75,7 @@ Il est néanmoins possible de candidater en remplissant un formulaire disponible
 > - L'arbre en face du CM
 > - L'arbre en face de la Jefke <br>
 
-## Le Rôle de l'Ordre en interne et dans le folklore
+## Le Rôle de l'Ordre en Interne et dans le Folklore
 
 Le but de l'Ordre était de promouvoir avant tout un groupe construit sur la **camaraderie** estudiantine, afin de **défendre les traditions** estudiantines et les valeurs de l'ULB, comme le libre examen et la liberté d'expression tout en écartant de l'ULB les étudiants issus de l'enseignement clérical.
 > Nous parlerons de la mort du Librex notamment par les Macchas prochainement.
@@ -93,7 +93,7 @@ Tout ce rituel ne prétend ni imiter ni tourner en dérision la franc-maçonneri
 > [...] mais j'ai ressenti une profonde joie à retrouver en loge un grand nombre de mes anciens compagnons de la vie universitaire.
 
 
-# Quelle pertinence ? 
+# Quelle Pertinence ? 
 
 
 # Sources : 

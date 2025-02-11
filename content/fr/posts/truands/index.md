@@ -33,3 +33,24 @@ Ainsi, les deux ordres ont alterné entre revendications folkloriques et engagem
 > [...] et le balancier de l'histoire continuant sa course, les Macchas des années 80 se mirent à défendre des positions que n'auraient pas désavouées les Truands des années 60 tandis que les Truands des années 80 renouaient avec un folklore cher aux Macchas des années 60.
 
 ## Le Symbolisme au sein de l'ordre
+
+Depuis ses origines, l'Ordre a fondé son rituel et son symbolisme sur le Royaume d'Argot, une entité autonome et indépendante du Royaume de France apparue au XIVᵉ siècle. Ce royaume possédait son propre gouvernement, ses propres lois et son propre langage. Aujourd'hui, le terme "argot" désigne une variété linguistique propre à un groupe social ou professionnel.
+
+> 📖 **Un mot sur l'argot**
+L'argot s'est historiquement développé comme un moyen de contourner les tabous imposés par la société, permettant à divers groupes sociaux d’élaborer leur propre langage à différentes époques. L’un des premiers témoignages connus de ce phénomène apparaît dans le dossier judiciaire du procès des **Coquillards** à Dijon en 1455, où un jargon de bandits est documenté. Plus tard, au XVe siècle, **François Villon** fait référence à cette langue codée dans ses poèmes, publiés en 1489 par Levet, en employant l'expression "jargon et jobelin".
+
+Un parallèle se dessine ainsi entre un ordre aux tendances libertaires et anarchistes et l'argot, langage du peuple, tous deux incarnant une forme de contestation de l'autorité. Cette idée se trouve parfaitement illustrée par la devise :
+> Ny Dieu - Ny Roy.
+
+![](nydieux.png)
+
+Le témoignage de F. L.-T. et R. de S.-G. révèle que les Truands fondateurs de l'Ordre ont mené de nombreuses recherches, allant jusqu’à explorer la Bibliothèque Royale afin de redonner vie à des ouvrages anciens tels que :
+
+- *"Le jargon ou langage de l'Argot réformé à l'usage des merciers, porte-balles et autres "* (1628)
+- Un ouvrage anonyme datant de 1596
+
+C’est dans le premier de ces livres que l’on retrouve un extrait récité par les Truands lors de leurs initiations :
+
+> "... à savoir que je serai un frère pour tout Archisuppôt ou Péchon, et ce, non seulement es joyeuseté, esbaudissement et gaudisserie, mais item es malheureté; meschef et vilénie, ..."
+
+## Le Rôle de l'ordre
