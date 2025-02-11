@@ -53,4 +53,17 @@ C’est dans le premier de ces livres que l’on retrouve un extrait récité pa
 
 > "... à savoir que je serai un frère pour tout Archisuppôt ou Péchon, et ce, non seulement es joyeuseté, esbaudissement et gaudisserie, mais item es malheureté; meschef et vilénie, ..."
 
-## Le Rôle de l'ordre
+## Le Rôle de l'Ordre
+L'Ordre des Frères Truands se réunissait à huis clos, comme de nombreux autres ordres, à une date fixée, avec une présence obligatoire et, le plus souvent, dans un lieu tenu secret. Les réunions se déroulaient en deux parties : l’une dite "sérieuse" et l’autre plus festive, marquée par des libations, qui s’achevait traditionnellement avec la dernière goutte d’un tonneau, au son du **"Semeur"** et de l’**"Hymne de la Truanderie"**.
+
+Une fois intronisés, les membres de l’Ordre recevaient un surnom symbolique, qu’ils ne devaient jamais révéler sous peine d’une sanction bibitive.
+
+De par leur nature résolument militante, les Truands étaient fréquemment présents lors des manifestations étudiantes, mais également dans des actions plus légères et humoristiques. L’Ordre parvint à traverser le siècle en s’adaptant aux évolutions de son époque, tout en changeant à plusieurs reprises d’orientation politique. Finalement, c’est dans les années 60 qu’il prit une tournure plus revendicative que purement folklorique.
+
+## La Disparition de l'Ordre
+
+> Par delà ces mutations, la confrérie des Truands resta et restera fidèle à ses grands principes : pas seulement le folklore et la fraternité libertaires, mais aussi et surtout une vigoureuse défense du libre examen et du prestige de l'U.L.B
+
+# De l'Ordre des Frères Coquillards 
+
+## Après 10 ans de sommeil
