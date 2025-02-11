@@ -1,6 +1,6 @@
 ---
 title: "Relation entre ordres : de 1830 à nos jours"
-date: '2025-02-11T23:59:38+01:00'
+date: '2025-02-11'
 author:
 description: "Frise chronologique"
 ---
@@ -34,7 +34,9 @@ description: "Frise chronologique"
 
 # Des Truands aux Coquillards : une grande famille
 
-## Les Frères Truands et Les Frères Coquillards
+## Les Frères Truands et es Frères Coquillards
+
+[Les Frères Truands et les Frères Coquillards : ](/post/truands/)
 
 ## Corneilles et Templiers
 
@@ -44,7 +46,8 @@ description: "Frise chronologique"
 
 # Thélémites
 
-# Phallus et Thanéas
+# Phallus et Thanéa
+[Phallus et Thanèa : les ordres dans l'après mai 68](/post/phallus/)
 
 # Les Dindons et leurs déscendances
 
