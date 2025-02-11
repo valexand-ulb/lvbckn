@@ -38,7 +38,7 @@ pinned : true
 
 ## Les Frères Truands et es Frères Coquillards
 
-[Les Frères Truands et les Frères Coquillards : ](/post/truands/)
+[Des Truands aux Coquillards : le contrepoids de l'influence Macchabée](/posts/truands/)
 
 ## Corneilles et Templiers
 
