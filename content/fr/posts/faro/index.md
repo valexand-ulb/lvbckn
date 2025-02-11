@@ -1,8 +1,9 @@
 ---
 title: "L'Ordre du Faro : une motivation agathopède ?"
 date: 2025-02-04
-author:
+author: 'Lövbacken'
 description:
+pinned : false
 ---
 
 <style>

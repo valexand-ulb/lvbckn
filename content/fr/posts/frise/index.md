@@ -1,8 +1,10 @@
 ---
 title: "Relation entre ordres : de 1830 à nos jours"
 date: '2025-02-11'
-author:
+author : 'Lövbacken'
+weigth : 100
 description: "Frise chronologique"
+pinned : true
 ---
 
 <style>

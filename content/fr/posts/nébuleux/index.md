@@ -1,8 +1,9 @@
 ---
 title: "Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes"
 date: 2025-02-08
-author:
+author: 'Lövbacken'
 description: ""
+pinned : false
 ---
 
 <style>

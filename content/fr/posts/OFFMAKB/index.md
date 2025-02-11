@@ -1,8 +1,9 @@
 ---
 title: "L'OFFMAKB : une histoire riche en perte de pertinence depuis plus de 20 ans..."
 date: 2025-02-04
-author:
+author: 'Lövbacken'
 description: 
+pinned : false
 ---
   
     
