@@ -78,7 +78,6 @@ Il est néanmoins possible de candidater en remplissant un formulaire disponible
 ## Le Rôle de l'Ordre en Interne et dans le Folklore
 
 Le but de l'Ordre était de promouvoir avant tout un groupe construit sur la **camaraderie** estudiantine, afin de **défendre les traditions** estudiantines et les valeurs de l'ULB, comme le libre examen et la liberté d'expression tout en écartant de l'ULB les étudiants issus de l'enseignement clérical.
-> Nous parlerons de la mort du Librex notamment par les Macchas prochainement.
 
 Dans cette optique, nous retrouvons souvent lors d'évènement marquant des tracts et des affiches terminées par “Si la communauté universitaire ne réagit pas, les Macchas, eux, réagiront” mais aussi  la parution de journaux tel que la "**Bulle**" ou encore le "**Bruxelles Universitaire**".
 
