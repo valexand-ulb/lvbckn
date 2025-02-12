@@ -4,6 +4,7 @@ date: '2025-02-10'
 author: "Lövbacken"
 description: ""
 pinned : false
+slug : "phallus"
 ---
 
 <style>
@@ -32,7 +33,7 @@ L'Ordre du Phallus a autrefois disposé d'un site web, [phallus.be](https://www.
 
 > Deux tracts issus du site. L'un datant du 6 mars 2015
 
-[Ici vous trouverez une version restaurée d'une des pages web du site](phallus.htm)
+[Ici vous trouverez une version restaurée d'une des pages web du site](./phallus)
 
 
 
