@@ -67,12 +67,12 @@ theme = "hugo-blog-awesome"
     weight = 30
 
 [Languages.fr-fr.params]
-  sitename = "Awesome hugo blog"
+  sitename = "LVBCKN : Histoire du Foklore discret"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Thème minimal pour blog Hugo avec prise en charge des modes clair et sombre"
+  description = "un projet de documentation de l'histoire du folklore"
   mainSections = ['posts']
   toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -92,9 +92,9 @@ theme = "hugo-blog-awesome"
 [Languages.fr-fr.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Histoire du Folklore"
+  intro = "LVBKCN : Histoire du folklore discret"
   name = ""
-  description = ""
+  description = "un projet de documentation de l'histoire du folklore"
 
 # Allow to override webmanifest options
 [Languages.fr-fr.params.webmanifest]
