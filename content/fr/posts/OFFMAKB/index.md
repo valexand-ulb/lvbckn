@@ -5,8 +5,6 @@ author: 'Lövbacken'
 description: 
 pinned : false
 ---
-  
-    
 
 <style>
   img {
@@ -17,9 +15,10 @@ pinned : false
   }
 </style>
 
-# Suite à venir, chaque chose en son temps...
 
-![](/meme.png)
+![](fanfare.jpg)
+
+> Ici une image de la fanfare du cercle de Médecine lors de la Saint-V de 1931. Cependant, nous pouvons apercevoir Jefke pointer gaiement sa tête parmi les membres. Notons aussi la présence d'un clystère, souvent utilisé dans la symbolique des premiers ordres et cercles.
 
 # De l'Origine : 
 C'est probablement dans la continuité des **Nébuleux** et des **Sauriens** (alors en voie d'extinction) qu'émerge, après la Première Guerre mondiale, l'**Ordre des Frères Macchabées**. 
@@ -78,7 +77,6 @@ Il est néanmoins possible de candidater en remplissant un formulaire disponible
 ## Le Rôle de l'Ordre en Interne et dans le Folklore
 
 Le but de l'Ordre était de promouvoir avant tout un groupe construit sur la **camaraderie** estudiantine, afin de **défendre les traditions** estudiantines et les valeurs de l'ULB, comme le libre examen et la liberté d'expression tout en écartant de l'ULB les étudiants issus de l'enseignement clérical.
-> Nous parlerons de la mort du Librex notamment par les Macchas prochainement.
 
 Dans cette optique, nous retrouvons souvent lors d'évènement marquant des tracts et des affiches terminées par “Si la communauté universitaire ne réagit pas, les Macchas, eux, réagiront” mais aussi  la parution de journaux tel que la "**Bulle**" ou encore le "**Bruxelles Universitaire**".
 
@@ -91,7 +89,6 @@ Au sein de l’Ordre, les frères macchabées sont généralement tenus de produ
 Tout ce rituel ne prétend ni imiter ni tourner en dérision la franc-maçonnerie. Cependant, l’idée d’**antichambre** est souvent évoquée à propos de l’ordre. En effet, il n’est pas rare qu’un frère, après avoir quitté la vie universitaire, finisse par rejoindre une loge, comme l’explique Chassepot :
  
 > [...] mais j'ai ressenti une profonde joie à retrouver en loge un grand nombre de mes anciens compagnons de la vie universitaire.
-
 
 # Quelle Pertinence ? 
 > 💡 Cette section reflète une réflexion personnelle propre à son auteur. Son objectif n'est pas de viser une personne ou un groupe en particulier, mais plutôt de poser des questions sur la pertinence du sujet et d'apporter des arguments, bien que rarement inédits, à un débat ouvert. Chaque avis a sa pertinence, et bien que le support actuel soit inadéquat, presque toute parole mérite d’être entendue.
@@ -106,7 +103,9 @@ Ensuite, le poids des traditions folkloriques constitue un autre obstacle à cet
 
 La question de la discrétion de l’ordre ajoute une complexité supplémentaire. Si autrefois une certaine ouverture caractérisait le cercle, une évolution vers une posture plus discrète a été observée. Toutefois, cette discrétion semble parfois factice lorsque les statuts mêmes de l’ordre imposent une posture de défiance visible à l’égard des événements majeurs de l’institution universitaire. Peut-on réellement se dire discret lorsqu’une réputation de groupe marginalisé et provocateur est revendiquée ? En jouant sur l’image du rejet institutionnel – « tout le monde hait les MAKB » – l’ordre entretient paradoxalement une visibilité qui contredit son positionnement officiel.
 
+> Conclusion à venir
 
+![](/meme.png)
 
 # Sources : 
 - Article du journal le Soir de 1999 : "A LA UNE LES CERCLES DU VOIR, DU SAVOIR ET DU POUVOIR..."
@@ -115,7 +114,3 @@ La question de la discrétion de l’ordre ajoute une complexité supplémentair
 - Bruxelles Universitaire Janvier 1928 : 
 - "La pensée des Hommes - Sous le masque de la franc-maçonnerie", 13e ouvrage.
 - Archives de l'ULB.
-
-![](fanfare.jpg)
-
-> Ici une image de la fanfare du cercle de Médecine lors de la Saint-V de 1931. Cependant, nous pouvons apercevoir Jefke pointer gaiement sa tête parmi les membres. Notons aussi la présence d'un clystère, souvent utilisé dans la symbolique des premiers ordres et cercles.
