@@ -15,10 +15,7 @@ pinned : false
   }
 </style>
 
-
-![](fanfare.jpg)
-
-> Ici une image de la fanfare du cercle de Médecine lors de la Saint-V de 1931. Cependant, nous pouvons apercevoir Jefke pointer gaiement sa tête parmi les membres. Notons aussi la présence d'un clystère, souvent utilisé dans la symbolique des premiers ordres et cercles.
+![](dessin.jpg)
 
 # De l'Origine : 
 C'est probablement dans la continuité des **Nébuleux** et des **Sauriens** (alors en voie d'extinction) qu'émerge, après la Première Guerre mondiale, l'**Ordre des Frères Macchabées**. 
@@ -56,6 +53,10 @@ et en **"officiers supérieur"** :
 
 Pendant leurs tenures, les frères revêtent une toge et une cagoule noires. La réunion se déroule dans un lieu gardé secret, éclairé à la seule lueur des bougies. Un crâne, symbole de puissance souveraine plutôt que de memento mori, repose sur un autel recouvert de draperies noires.
 
+![](fanfare.jpg)
+
+> Ici une image de la fanfare du cercle de Médecine lors de la Saint-V de 1931. Cependant, nous pouvons apercevoir Jefke pointer gaiement sa tête parmi les membres. Notons aussi la présence d'un clystère, souvent utilisé dans la symbolique des premiers ordres et cercles.
+
 ## Le Recrutement
 L'intégration au sein de l’ordre se fait par cooptation, où chaque nouveau membre doit satisfaire des critères stricts établis par les anciens afin de garantir la cohésion du groupe.
 Le premier contact s’établit généralement par une lettre ou un appel téléphonique anonyme. À cette occasion, il est fréquent que le candidat reçoive pour consigne de se bander les yeux et d’attendre sur un banc de l’abbaye de la Cambre.
@@ -77,6 +78,7 @@ Il est néanmoins possible de candidater en remplissant un formulaire disponible
 ## Le Rôle de l'Ordre en Interne et dans le Folklore
 
 Le but de l'Ordre était de promouvoir avant tout un groupe construit sur la **camaraderie** estudiantine, afin de **défendre les traditions** estudiantines et les valeurs de l'ULB, comme le libre examen et la liberté d'expression tout en écartant de l'ULB les étudiants issus de l'enseignement clérical.
+> Nous parlerons de la mort du Librex notamment par les Macchas prochainement.
 
 Dans cette optique, nous retrouvons souvent lors d'évènement marquant des tracts et des affiches terminées par “Si la communauté universitaire ne réagit pas, les Macchas, eux, réagiront” mais aussi  la parution de journaux tel que la "**Bulle**" ou encore le "**Bruxelles Universitaire**".
 
@@ -90,7 +92,8 @@ Tout ce rituel ne prétend ni imiter ni tourner en dérision la franc-maçonneri
  
 > [...] mais j'ai ressenti une profonde joie à retrouver en loge un grand nombre de mes anciens compagnons de la vie universitaire.
 
-# Quelle Pertinence ? 
+# Quelle Pertinence ?
+
 > 💡 Cette section reflète une réflexion personnelle propre à son auteur. Son objectif n'est pas de viser une personne ou un groupe en particulier, mais plutôt de poser des questions sur la pertinence du sujet et d'apporter des arguments, bien que rarement inédits, à un débat ouvert. Chaque avis a sa pertinence, et bien que le support actuel soit inadéquat, presque toute parole mérite d’être entendue.
 
 L’ordre des Frères Macchabées semble aujourd’hui en proie à une crise d’identité dont les racines plongent dans son histoire même. Malgré des tentatives de renouveau, il demeure marqué par des travers hérités d’un autre temps, notamment un élitisme anachronique et une fermeture qui entrave son adaptation aux évolutions contemporaines. Cette tension entre tradition et modernité pose la question de la viabilité de l’ordre dans un contexte où les attentes sociétales et universitaires ont profondément changé.
@@ -105,8 +108,6 @@ La question de la discrétion de l’ordre ajoute une complexité supplémentair
 
 > Conclusion à venir
 
-![](/meme.png)
-
 # Sources : 
 - Article du journal le Soir de 1999 : "A LA UNE LES CERCLES DU VOIR, DU SAVOIR ET DU POUVOIR..."
 - Article du journal le Soir de 1979 : ""
@@ -114,3 +115,5 @@ La question de la discrétion de l’ordre ajoute une complexité supplémentair
 - Bruxelles Universitaire Janvier 1928 : 
 - "La pensée des Hommes - Sous le masque de la franc-maçonnerie", 13e ouvrage.
 - Archives de l'ULB.
+
+![](meme.png)
