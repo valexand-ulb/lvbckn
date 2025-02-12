@@ -81,7 +81,8 @@ Le but de l'Ordre était de promouvoir avant tout un groupe construit sur la **c
 
 Dans cette optique, nous retrouvons souvent lors d'évènement marquant des tracts et des affiches terminées par “Si la communauté universitaire ne réagit pas, les Macchas, eux, réagiront” mais aussi  la parution de journaux tel que la "**Bulle**" ou encore le "**Bruxelles Universitaire**".
 
-![](bulle.png)
+<img src="bulle.jpg" style="max-width: 40%; height: auto;">>
+
 
 Au sein de l’Ordre, les frères macchabées sont généralement tenus de produire un travail à chaque tenure. Celui-ci peut revêtir une dimension artistique, à travers une chanson, un poème ou une caricature, ou s’inscrire dans une démarche plus analytique, sous forme de dissertation, de réflexion ou de débat sur le folklore. De plus, en raison du caractère élitiste de l’Ordre et de son souhait de recruter principalement des individus bien intégrés dans un cercle, il est attendu des frères qu’ils participent activement à la vie estudiantine, que ce soit au sein de leur propre cercle ou du cercle du Libre Examen. Un article du "Bruxelles Universitaire" de 1928 exprime bien cette dernière volonté : 
 
