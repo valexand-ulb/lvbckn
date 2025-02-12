@@ -62,7 +62,9 @@ L'intégration au sein de l’ordre se fait par cooptation, où chaque nouveau m
 Le premier contact s’établit généralement par une lettre ou un appel téléphonique anonyme. À cette occasion, il est fréquent que le candidat reçoive pour consigne de se bander les yeux et d’attendre sur un banc de l’abbaye de la Cambre.
 Ensuite, les postulants sont soumis à une enquête approfondie ainsi qu’à un interrogatoire portant sur leur parcours dans le milieu étudiant. Avant l’intronisation, un vote des membres de l’ordre détermine leur admission à l'intronisation.
 
-> **Image à paraître**
+![](lettre.jpg)
+
+> Lettre datée du 10 février 1965, retrouvée dans les archives de l'ULB
 
 Il est néanmoins possible de candidater en remplissant un formulaire disponible derrière chaque "Bruxelles Universitaire". De nos jours, cette méthode est sans doute une supercherie. Toutefois, elle rappelle les origines de l’ordre, qui était autrefois plus accessible et acceptait ce mode de candidature jusqu’en 1928.
 
