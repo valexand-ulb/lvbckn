@@ -49,7 +49,7 @@ pinned : true
 # Thélémites
 
 # Phallus et Thanéa
-[Phallus et Thanèa : les ordres dans l'après mai 68](/post/phallus/)
+[Phallus et Thanèa : les ordres dans l'après mai 68](/posts/phallus/)
 
 # Les Dindons et leurs déscendances
 
