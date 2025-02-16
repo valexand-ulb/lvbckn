@@ -1,5 +1,5 @@
 ---
-title: "Lien entre Franc-Maçonnerie et Ordres Ulbistes"
+title: "Lien entre franc-maçonnerie et ordres ulbistes"
 date: 2025-02-06
 author: 'Lövbacken'
 description: ""
