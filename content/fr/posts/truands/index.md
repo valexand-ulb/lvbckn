@@ -61,9 +61,16 @@ Une fois intronisés, les membres de l’Ordre recevaient un surnom symbolique, 
 De par leur nature résolument militante, les Truands étaient fréquemment présents lors des manifestations étudiantes, mais également dans des actions plus légères et humoristiques. L’Ordre parvint à traverser le siècle en s’adaptant aux évolutions de son époque, tout en changeant à plusieurs reprises d’orientation politique. Finalement, c’est dans les années 60 qu’il prit une tournure plus revendicative que purement folklorique.
 
 ## La Disparition de l'Ordre
-
+[X]
 > Par delà ces mutations, la confrérie des Truands resta et restera fidèle à ses grands principes : pas seulement le folklore et la fraternité libertaires, mais aussi et surtout une vigoureuse défense du libre examen et du prestige de l'U.L.B
 
 # De l'Ordre des Frères Coquillards 
+L'Ordre de Frères Coquillards serait une renaissance de l'Ordre des Frères Truands dont nous faisions mention ci-dessus. C'est au début des année 90 que l'ordre se refonde à l'aide de [X]. Ils adopteront donc un cadre déjà bien défini, guidé par des idéaux similaires, tout en évoluant au fil du temps afin de mieux s'adapter à leur époque. À ce sujet, un poil de l'Ordre souligne :
+
+> [...] nous sommes désormais très éloignés du rituel rigide et violent, que plus personne n’aime être cette structure secrète et convoitée à l’image de la franc-maçonnerie. Nous restons ce que nous sommes mais nous sommes plus une bande d’amis soudés entourés de rites plutôt que l’inverse.
 
 ## Après 10 ans de sommeil
+
+## Le Pentagruel : Journal de Saint-V
+
+## Le Rôle de l'Ordre

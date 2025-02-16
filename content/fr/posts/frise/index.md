@@ -36,7 +36,7 @@ pinned : true
 
 # Des Truands aux Coquillards : une grande famille
 
-## Les Frères Truands et es Frères Coquillards
+## Les Frères Truands et les Frères Coquillards
 
 [Des Truands aux Coquillards : le contrepoids de l'influence Macchabée](/posts/truands/)
 
