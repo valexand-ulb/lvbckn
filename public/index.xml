@@ -6,15 +6,50 @@
     <description>Recent content in Home on lvbckn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 11:51:08 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Des Truands aux Coquillards : </title>
+      <title>Les Sauriens : une société perdue dans les archives</title>
+      <link>http://localhost:1313/posts/sauriens/</link>
+      <pubDate>Sun, 16 Feb 2025 11:51:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/sauriens/</guid>
+      
+      <description>&lt;style&gt;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
+  }
+&lt;/style&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ L&amp;rsquo;article suivant s&amp;rsquo;appuie sur un nombre très limité de documents. En effet, il est difficile de retracer avec précision l’histoire des Sauriens. Bien que quelques références apparaissent çà et là dans divers exemplaires de Fleurs ou de journaux estudiantins de l’époque, seuls les documents suivants, issus des archives de l’ULB, ont été utilisés pour cet article, pratiquement tous signé par un &amp;ldquo;Riskosaurus Canotans&amp;rdquo; :&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Des Truands aux Coquillards : le contrepoids de l&#39;influence Macchabée</title>
       <link>http://localhost:1313/posts/truands/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/truands/</guid>
       
-      <description></description>
+      <description>&lt;style&gt;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
+  }
+&lt;/style&gt;
+&lt;div style=&#34;display: flex; justify-content: center; align-items: center; gap: 10px;&#34;&gt;
+    &lt;img src=&#34;coquillards_1.jpg&#34; style=&#34;max-width: 40%; height: auto;&#34;&gt;
+    &lt;img src=&#34;coquillards_2.jpg&#34; style=&#34;max-width: 40%; height: auto;&#34;&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Manneken-Pis habillé en Coquillards, une médaille des Truands sur sa penne.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id=&#34;de-lordre-des-frères-truands&#34;&gt;De l&amp;rsquo;Ordre des Frères Truands&lt;/h1&gt;
+&lt;p&gt;L&amp;rsquo;&lt;strong&gt;Ordre des Frères Truands&lt;/strong&gt;, également appelé la &lt;strong&gt;Truandaille,&lt;/strong&gt; voit le jour en 1951, dans le contexte de l&amp;rsquo;après-guerre. À cette époque, plusieurs ordres peinent à se restructurer. Les Frères Macchabées, par exemple, s&amp;rsquo;appuient sur le cercle de médecine pour relancer leur organisation.&lt;/p&gt;</description>
       
     </item>
     
@@ -52,7 +87,16 @@
       
       <guid>http://localhost:1313/posts/phallus/</guid>
       
-      <description></description>
+      <description>&lt;style&gt;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
+  }
+&lt;/style&gt;
+&lt;h1 id=&#34;de-lordre-du-phallus&#34;&gt;De l&amp;rsquo;Ordre du Phallus&lt;/h1&gt;
+&lt;p&gt;L&amp;rsquo;&lt;strong&gt;Ordre du Phallus&lt;/strong&gt; (ou O.D.P) a vu le jour en 1969. D&amp;rsquo;abord simple société folklorique empreinte de légèreté, il a progressivement évolué pour devenir une véritable Confrérie, dotée de ses propres rites et symboles, inspirés du culte de Bacchus et du vin. Au fil du temps, il s&amp;rsquo;est également engagé dans la défense des valeurs de l&amp;rsquo;&lt;strong&gt;Université Libre de Bruxelles (ULB)&lt;/strong&gt; et de la &lt;strong&gt;Vrije Universiteit Brussel (VUB)&lt;/strong&gt;. Fait notable, cet ordre fait partie des rares, aux côtés des Hématophages, à s&amp;rsquo;étendre sur ces deux institutions académiques tout en maintenant une communication bilingue.&lt;/p&gt;</description>
       
     </item>
     
@@ -125,9 +169,8 @@ En effet, durant cette période proche de l’indépendance de la Belgique, seul
     max-width: 80%; /* Pour garantir que l&#39;image ne dépasse pas la largeur de l&#39;écran */
   }
 &lt;/style&gt;
-&lt;h1 id=&#34;suite-à-venir-chaque-chose-en-son-temps&#34;&gt;Suite à venir, chaque chose en son temps&amp;hellip;&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/offmakb/meme.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;de-lorigine-&#34;&gt;De l&amp;rsquo;origine :&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/offmakb/dessin.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;de-lorigine-&#34;&gt;De l&amp;rsquo;Origine :&lt;/h1&gt;
 &lt;p&gt;C&amp;rsquo;est probablement dans la continuité des &lt;strong&gt;Nébuleux&lt;/strong&gt; et des &lt;strong&gt;Sauriens&lt;/strong&gt; (alors en voie d&amp;rsquo;extinction) qu&amp;rsquo;émerge, après la Première Guerre mondiale, l&amp;rsquo;&lt;strong&gt;Ordre des Frères Macchabées&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Autrefois connus sous le nom de Funèbre Macchabées, ils adoptèrent cette appellation en hommage aux frères d’armes ayant côtoyé la mort de près dans les tranchées. Un article du Soir de 1999 rapporte que des étudiants envoyés au combat furent approchés par des Maçons, qui leur transmirent les rites et l’esprit de fraternité maçonnique afin de rendre plus paisible leurs vie dans les tranchées.&lt;/p&gt;</description>
       
