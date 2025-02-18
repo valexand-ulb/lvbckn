@@ -108,7 +108,13 @@ Ensuite, le poids des traditions folkloriques constitue un autre obstacle à cet
 
 La question de la discrétion de l’ordre ajoute une complexité supplémentaire. Si autrefois une certaine ouverture caractérisait le cercle, une évolution vers une posture plus discrète a été observée. Toutefois, cette discrétion semble parfois factice lorsque les statuts mêmes de l’ordre imposent une posture de défiance visible à l’égard des événements majeurs de l’institution universitaire. Peut-on réellement se dire discret lorsqu’une réputation de groupe marginalisé et provocateur est revendiquée ? En jouant sur l’image du rejet institutionnel – « tout le monde hait les MAKB » – l’ordre entretient paradoxalement une visibilité qui contredit son positionnement officiel.
 
-> Conclusion à venir
+En conclusion, l’Ordre des Frères Macchabées se trouve à la croisée des chemins, tiraillé entre une tradition pesante et la nécessité d’une adaptation aux réalités contemporaines. Son élitisme historique, son attachement à des rituels anciens et les tensions idéologiques qui traversent actuellement notre alma mater constituent autant d’obstacles à son renouveau. La discrétion qu’il revendique apparaît paradoxale, oscillant entre retrait et mise en scène assumée. Dès lors, la viabilité de l’ordre repose sur sa capacité à redéfinir son identité sans renier son héritage, sous peine de sombrer dans une marginalité de plus en plus détachée des évolutions universitaires et sociétales.
+
+Par sympathie,
+
+Lövbacken
+
+
 
 # Sources : 
 - Article du journal le Soir de 1999 : "A LA UNE LES CERCLES DU VOIR, DU SAVOIR ET DU POUVOIR..."

@@ -59,9 +59,30 @@ L'Ordre des Frères Truands se réunissait à huis clos, comme de nombreux autre
 Une fois intronisés, les membres de l’Ordre recevaient un surnom symbolique, qu’ils ne devaient jamais révéler sous peine d’une sanction bibitive.
 
 De par leur nature résolument militante, les Truands étaient fréquemment présents lors des manifestations étudiantes, mais également dans des actions plus légères et humoristiques. L’Ordre parvint à traverser le siècle en s’adaptant aux évolutions de son époque, tout en changeant à plusieurs reprises d’orientation politique. Finalement, c’est dans les années 60 qu’il prit une tournure plus revendicative que purement folklorique.
+En effet, lors de la Saint-V de 1966, un avis de décès accompagné de plusieurs gerbes de fleurs fut envoyé à M. Homès, alors nouveau recteur. Cette action suscita de vives réactions au sein de la communauté étudiante, divisée entre ceux qui la défendaient et ceux qui la condamnaient, notamment au sein de divers ordres. À ce sujet, les Frères Thélémites déclarèrent par exemple :
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="lettre-truands.jpg" style="max-width: 40%; height: auto;">
+    <img src="lettre-thelemites.jpg" style="max-width: 40%; height: auto;">
+</div>
+
+> Images à venir - Tract issu des Archives de l'ULB, réserve précieuse.
 
 ## La Disparition de l'Ordre
-[X]
+L'ordre disparaît dans les années 1980, marqué par l'émergence de nombreuses dissidences, particulièrement à la fin de son existence. Parmi ces groupes dissidents, on peut citer les "Truands Judaïques" ou encore la "Force 5", qui ont revendiqué diverses actions. L'une d'elles consistait en la diffusion d'une liste de noms d'étudiants appartenant à des cercles discrets, bien que ces informations aient probablement été erronées. C'est finalement en 1984 qu'une tentative de résurgence de l'ordre semble émerger. Toutefois, il demeure difficile de déterminer si celle-ci a véritablement abouti.
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="force-5.jpg" style="max-width: 40%; height: auto;">
+    <img src="" style="max-width: 40%; height: auto;">
+</div>
+
+
+> Images à venir - Tracts issu des Archives de l'ULB, réserve précieuse.
+
+Nous conclurons par une citation de *"La Pensée des hommes, sous le masque de la franc-maçonnerie"*, illustrant parfaitement les ambitions que l’ordre affichait à l’époque :
+
 > Par delà ces mutations, la confrérie des Truands resta et restera fidèle à ses grands principes : pas seulement le folklore et la fraternité libertaires, mais aussi et surtout une vigoureuse défense du libre examen et du prestige de l'U.L.B
 
 # De l'Ordre des Frères Coquillards 
@@ -74,3 +95,7 @@ L'Ordre de Frères Coquillards serait une renaissance de l'Ordre des Frères Tru
 ## Le Pentagruel : Journal de Saint-V
 
 ## Le Rôle de l'Ordre
+
+## Les dissidences
+
+# Sources
