@@ -66,37 +66,45 @@ pinned : true
 
 # A classer et / ou documenter : 
 
-- Compagnons de Thomas Moore
-- Rapporteur du grand conseil d'en haut
-- Schtroumpf à lunette
-- schtroumpf noir
 - Amis de la très grande loge Fenris
-- Spectateurs Enragés (???)
-- Frères Krostons
-- Ordre studentyssime vesnerable et trez magnyfyque de François Villon de Montcorbier
 - Bertiens
-- Chouans
+- Carcasses (Frères) (KRKS, 1975-1976)
 - Chéloniens
+- Chouans
 - Ciceros
 - Cinq Glands
 - Cocotiers
+- Compagnons de Thomas Moore
 - Croque-morts
 - Dada
 - Dalle en pente
 - Déménageurs
+- Élite (Ordre de l')
 - Force Cinq
-- Fox
-- Frères Scarabées
+- Fox 
 - Fugitifs
+- Gentlemen Étalons Dorés (club des)
 - Grand Veres
+- Iguanodons de l'Université de Bruxelles (club des)
 - Infecte Insecte
+- Kasteel (Ordre de la)
+- Krostons (Frères)
 - Lotus
 - Mécréants
 - Menuisier
 - Montagnards
-- Quatre Points
+- Ordre studentyssime vénérable et très magnifique de François Villon de Montcorbier
+- Petits Besogneux (Les) (actif durant les années 50)
+- Pisseurs d’Éviers (Ordre des) (PDE) (1936)
 - Presses
-- Sauret masqué
-- Scalptores Anis
-- Valencia
+- Quatre Points
 - Quatre Vins
+- Rapporteur du grand conseil d'en haut
+- Sauret masqué
+- Scarabées (Frères)
+- Scalptores Anis
+- Schtroumpf à lunette
+- Schtroumpf noir
+- Spectateurs Enragés (???)
+- Tricéphale (Ordre du)
+- Valencia
