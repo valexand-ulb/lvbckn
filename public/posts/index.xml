@@ -70,13 +70,12 @@
 &lt;/style&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/frise/frise.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;⚠️ Cet article fait office de table des matière pour les articles existant ou à venir sur le site.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;⚠️ Cet article fait office de table des matières pour les articles existant ou à venir sur le site.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h1 id=&#34;cercle-des-adelphes&#34;&gt;Cercle des Adelphes&lt;/h1&gt;
 &lt;h1 id=&#34;cercle-de-bohème---cercle-des-nébuleux&#34;&gt;Cercle de Bohème - Cercle des Nébuleux&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/n%C3%A9buleux/&#34;&gt;&amp;ldquo;Les Nébuleux : Aux Origines des Ordres et de Leurs Influences Secrètes&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;sauriens&#34;&gt;Sauriens&lt;/h1&gt;
-&lt;h1 id=&#34;ordre-des-frères-macchabées&#34;&gt;Ordre des Frères Macchabées&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/offmakb/&#34;&gt;&amp;ldquo;L&amp;rsquo;OFFMAKB : une histoire riche en perte de pertinence depuis plus de 20 ans&amp;hellip;&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/sauriens/&#34;&gt;&amp;ldquo;Les Sauriens : une société perdue dans les archives&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -101,7 +100,7 @@
     </item>
     
     <item>
-      <title>Les Nébuleux : aux Origines des Ordres et de Leurs Influences Secrètes</title>
+      <title>Les Nébuleux : aux origines des ordres et de leurs influences secrètes</title>
       <link>http://localhost:1313/posts/n%C3%A9buleux/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
       
@@ -133,7 +132,7 @@
     </item>
     
     <item>
-      <title>Lien entre Franc-Maçonnerie et Ordres Ulbistes</title>
+      <title>Lien entre franc-maçonnerie et ordres ulbistes</title>
       <link>http://localhost:1313/posts/ordres-et-fm/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
       

@@ -14,6 +14,9 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 # traditional way: theme component resides in directory 'themes' 
 theme = "hugo-blog-awesome"
 
+# robots.txt
+enableRobotsTXT = true
+
 # modern way: pull in theme component as hugo module
 #[module]
   # Uncomment the next line to build and serve using local theme clone declared in the named Hugo workspace:
@@ -110,3 +113,4 @@ theme = "hugo-blog-awesome"
 # Allow to override `browserconfig.xml` params (configuration for windows embedded browsers)
 [params.browserconfig]
   TileColor = "#2d89ef" # default windows 10 blue tile color
+

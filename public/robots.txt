@@ -1,0 +1,10 @@
+User-agent: *
+Allow : /
+
+Disallow: /categories/
+
+Disallow: /pages/
+
+Disallow: /tags/
+
+Sitemap: http://localhost:1313/sitemap.xml
