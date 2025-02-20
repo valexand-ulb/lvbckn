@@ -15,6 +15,9 @@ pinned : false
   }
 </style>
 
+![](affiche.jpg)
+> Affiche au format a3  des Archives de l’Université libre de Bruxelles - Archive Patrimoine et Réserve précieuse
+
 > ⚠️ L'article suivant s'appuie sur un nombre très limité de documents. En effet, il est difficile de retracer avec précision l’histoire des Sauriens. Bien que quelques références apparaissent çà et là dans divers exemplaires de Fleurs ou de journaux estudiantins de l’époque, seuls les documents suivants, issus des archives de l’ULB, ont été utilisés pour cet article, pratiquement tous signé par un "Riskosaurus Canotans" :
 > -  Affichette avec un dinosaure dessinée au crayon
 > -  Carte de membre (2 pièces)
@@ -33,6 +36,10 @@ Bien que le fonctionnement interne reste difficile à déterminer, une affiche a
 
 Le cercle adopte comme symbole le **squelette d'iguanodon**, accompagné des trois points maçonniques entourés de trois "S" – probablement pour "*Saint-Synode Saurien*" – ainsi que, possiblement, la couleur mauve, si l'on se fie aux archives et à cette hypothèse concernant leur identité visuelle. Enfin, les Sauriens semblent utiliser un calendrier qui leur est propre, comme le suggère l’annotation "*15 Niclose an II*".
 
+![](carte-membre.jpg)
+> Carte membre issue  des Archives de l’Université libre de Bruxelles - Archive Patrimoine et Réserve précieuse
+
+
 ## Le Recrutement 
 Cette fameuse affiche datée de l'an II et signée des Sauriens invite les étudiants à présenter leur candidatures et nous laisse penser à une certaine ouverture du cercle malgré un mode de cooptation référencé précédemment.
 
@@ -45,16 +52,22 @@ Enfin, les "Frères" portaient des surnoms à la mode de nom de dinosaure tel qu
 - Lunukausorus Timidus
 - Quadros∴ Blafurens
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="menu-2.jpg" style="max-width: 40%; height: auto;">
+    <img src="menu-2v.jpg" style="max-width: 40%; height: auto;">
+</div>
+
+
 ## La disparition des Sauriens
 Une mention des Sauriens en 1923 fait état d'une distribution de punch à la Saint-V, constituant l’une des dernières traces écrites du cercle. Certaines sources suggèrent toutefois que les Sauriens ont poursuivi leurs activités dans la guindaille aux côtés des Macchabées, tandis que les Nébuleux ont fini par disparaître.
 
 ![](la-buse-fdm1983.jpg)
 
-> La Buse - Extrait des Fleurs du Mâle édition G.R.A.C.E daté de 1983
+> Chant La Buse. Extrait des Fleurs du Mâle édition G.R.A.C.E daté de 1983
 
 # Sources : 
 - Archive de l'ULB, fond des Sauriens - cote BE AULB ME 153
 - Fleurs du Mâle édition G.R.A.C.E, UAE 1983
 
-![](menu-saurien.jpg)
+
 
